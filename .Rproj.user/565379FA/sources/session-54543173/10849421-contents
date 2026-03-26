@@ -1,0 +1,25 @@
+---
+title: "John Levendis"
+subtitle: "Professor of Practice in Data Science, Tulane University"
+image: photo.jpg
+about:
+  template: trestles
+  links:
+      - icon: envelope
+        text: Email
+        href: mailto:jlevendis@tulane.edu
+      - icon: mortarboard
+        text: CV
+        href: cv.qmd
+      - icon: mortarboard
+        text: ORCID
+        href: https://orcid.org/0000-0001-9529-2998
+---
+
+I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.
+
+My research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.
+
+I teach courses in artificial intelligence, machine learning, and statistics.
+
+I also write about research and data science at [Substack](https://johnlevendis.substack.com).

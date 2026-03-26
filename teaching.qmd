@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+**Introduction to Statistics and Data Science (DATA 1010)**  
+Tulane University  
+[Syllabus](files/syllabus-data1010.pdf)
+
+**How AI Works**  
+Tulane University  
+[Syllabus](files/syllabus-how-ai-works.pdf)
+
+**Practical Machine Learning**  
+Tulane University  
+[Syllabus](files/syllabus-practical-ml.pdf) | [Lab Materials](https://github.com/jlevendi/practical-ml-labs)
