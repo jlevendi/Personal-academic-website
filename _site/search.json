@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "Book",
+    "section": "",
+    "text": "Time Series Econometrics: Learning Through Replication\nSpringer Texts in Business and Economics\nSecond Edition, 2023 | First Edition, 2018\nSpringer International Publishing | 488 pages\n\n\n\n\nSpringer | Amazon\nThis textbook teaches time series econometrics through replication rather than theorem and proof. Students work through landmark papers in economics and finance — by Granger and Newbold, Nelson and Plosser, Perron, Bollerslev, Sims, Arellano and Bond, and others — using the original data and reproducing published results in Stata. Topics progress from univariate ARMA models through unit root testing, structural breaks, ARCH/GARCH models, vector autoregressions, and static and dynamic panel data models. The book includes many worked examples and data-driven exercises, and is intended for graduate students, advanced undergraduates, and practitioners."
+  },
+  {
+    "objectID": "book.html#supplementary-materials",
+    "href": "book.html#supplementary-materials",
+    "title": "Book",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\nData | Stata Do-Files | GitHub Repository"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Levendis",
+    "section": "",
+    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nPDF\nTelecommunications and stock market efficiency in emerging markets (2025)\nWorking paper.\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Statistics and Data Science (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Statistics and Data Science (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+  }
+]
