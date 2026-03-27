@@ -4,9 +4,9 @@ title: "Teaching"
 
 ## Courses
 
-**Introduction to Statistics and Data Science (DATA 1010)**  
+**Introduction to Data (DATA 1010)**  
 Tulane University  
-[Syllabus](files/syllabus-data1010.pdf)
+[Syllabus](files/syllabus-data-1010.pdf)
 
 **How AI Works**  
 Tulane University  

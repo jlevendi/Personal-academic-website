@@ -3,7 +3,7 @@
     "path": "G:/My Drive/papers/media strategy/new_website/teaching.qmd",
     "project_path": "teaching.qmd",
     "type": "quarto_markdown",
-    "hash": "4290116789",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1774543410208.0,
@@ -14,15 +14,15 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,108",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1774543896,
+    "lastKnownWriteTime": 1774579337,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1774543896837,
+    "last_content_update": 1774579337408,
     "read_only": false,
     "read_only_alternatives": []
 }
