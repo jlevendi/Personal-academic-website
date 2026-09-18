@@ -46,6 +46,12 @@ With S.H. Lee.\
 *Economics Bulletin* 45(4), 1915–1925.\
 [PDF](files/Levendis2025default.pdf)
 
+**Observation loss from missing data in dynamic panel GMM** (2026)\
+*Finance Research Letters* 105.\
+[PDF](files/levendis2026observation.pdf)
+
 **The business analytics skills employers are looking for** (2025)\
 With N. Indika.\
 *Decision Sciences Journal of Innovative Education* 23(2).
+
+
