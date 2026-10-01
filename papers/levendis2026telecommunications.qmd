@@ -1,0 +1,21 @@
+---
+title: "Telecommunications adoption and stock market efficiency in emerging markets"
+description: "Telecommunications has improved price discovery in commodity markets across the developing world. Whether it similarly affects securities markets remains"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Telecommunications adoption and stock market efficiency in emerging markets">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2026">
+      <meta name="citation_journal_title" content="Information Technology for Development">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2026telecommunications.pdf">
+---
+
+**John Levendis**
+
+*Information Technology for Development* (in press), 2026
+
+Telecommunications has improved price discovery in commodity markets across the developing world. Whether it similarly affects securities markets remains untested. We examine the relationship between telecommunications adoption and stock market efficiency across 20 emerging markets, using runs tests, augmented Dickey-Fuller tests, and variance ratio tests. Efficiency measures based on serial correlation show a positive association between telecommunications adoption and market efficiency, whereas variance ratio tests do not. The association is stronger for telephone and mobile cellular subscriptions than for broadband, which shows no significant relationship with efficiency. Drawing on affordance theory, we argue that telephony affords synchronous communication that supports rapid price discovery, while broadband affords asynchronous information retrieval less directly connected to daily price formation. These findings extend ICT4D research on telecommunications and financial development from banking and mobile money into securities markets, and suggest that basic connectivity may matter more than advanced access for how stock prices incorporate information.
+
+[PDF](../files/levendis2026telecommunications.pdf)
+
+[← Back to Research](../research.html)

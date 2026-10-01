@@ -18,6 +18,8 @@ include-in-header:
 
 *Economics Bulletin* 45(4), 1915–1925, 2025
 
+The Arellano-Bond type dynamic panel estimators are known to suffer from over-instrumentation. Using Monte Carlo simulations, we compare Difference and System GMM with both default and collapsed instrument sets across varying numbers of countries and time periods typical in macroeconomic analysis. Collapsing consistently outperforms default instrumentation, providing more accurate estimates, especially as T increases. System GMM with collapsed instruments performs best overall, especially for endogenous variables. These findings strongly support using collapsed instruments for the analysis of macroeconomic panels, regardless of the number of countries or time periods.
+
 [PDF](../files/Levendis2025default.pdf)
 
 [← Back to Research](../research.html)

@@ -1,0 +1,28 @@
+---
+title: "The day-of-the-week effect revisited: International evidence"
+description: "The aim of this study is to determine whether the DOW effect still exists, and to evaluate empirically the explanations of the DOW effect for international"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="The day-of-the-week effect revisited: International evidence">
+      <meta name="citation_author" content="Dicle, Mehmet F.">
+      <meta name="citation_author" content="Levendis, John D.">
+      <meta name="citation_publication_date" content="2014">
+      <meta name="citation_journal_title" content="Journal of Economics and Finance">
+      <meta name="citation_volume" content="38">
+      <meta name="citation_issue" content="3">
+      <meta name="citation_firstpage" content="407">
+      <meta name="citation_lastpage" content="437">
+      <meta name="citation_doi" content="10.1007/s12197-011-9223-6">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/dicle2014day.pdf">
+---
+
+**Mehmet F. Dicle and John D. Levendis**
+
+*Journal of Economics and Finance* 38(3), 407–437, 2014
+
+The aim of this study is to determine whether the DOW effect still exists, and to evaluate empirically the explanations of the DOW effect for international equity markets. Evaluating 51 markets in 33 countries for the period between January 2000 and December 2007, reveals that the DOW effect persists for a significant proportion of equity markets. Evaluating open-to-close returns, liquidity, size effect and possible spill-over effects, the DOW effect can be explained for almost all the exchanges. Individual stock analysis, covering 37,631 stocks traded in 51 equity markets shows that a DOW effect in returns exists for a statistically significant proportion of individual stocks in almost all of the markets in the study. Even markets without a market-level DOW effect contain a surprisingly large proportion of stocks with individual-level DOW effects. Interestingly, this proportion is only marginally lower than that which is found in markets with a market-level DOW effect.
+
+[PDF](../files/dicle2014day.pdf) |
+[DOI: 10.1007/s12197-011-9223-6](https://doi.org/10.1007/s12197-011-9223-6)
+
+[← Back to Research](../research.html)

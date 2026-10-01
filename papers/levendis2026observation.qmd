@@ -16,6 +16,8 @@ include-in-header:
 
 *Finance Research Letters* 105, 2026
 
+Missing data in dynamic panel models estimated by GMM cause observation losses that exceed the number of missing cells. First-differencing exacerbates this effect, eliminating roughly 1.8 GMM-usable observations per missing cell. The problem compounds rapidly with multiple endogenous regressors. Over three variables, actual retention is roughly half of what listwise deletion would predict. Orthogonal deviations and system GMM both mitigate the loss and, additionally, preserve the strength of surviving instruments. These results are particularly relevant for finance, where dynamic panel GMM is widely used and where many regressors of interest are incomplete for substantial fractions of the sample. The findings provide practical guidance on estimator choice, variable selection, and the potential value of imputation.
+
 [PDF](../files/levendis2026observation.pdf) |
 [DOI: 10.1016/j.frl.2026.110189](https://doi.org/10.1016/j.frl.2026.110189)
 

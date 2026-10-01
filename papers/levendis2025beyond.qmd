@@ -1,0 +1,27 @@
+---
+title: "Beyond technique: The art of writing impactful econometric papers for Information Technology for Development"
+description: "This editorial provides methodological guidance for researchers publishing econometric studies in Information Technology for Development (ITD)."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Beyond technique: The art of writing impactful econometric papers for Information Technology for Development">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2025">
+      <meta name="citation_journal_title" content="Information Technology for Development">
+      <meta name="citation_volume" content="31">
+      <meta name="citation_issue" content="3">
+      <meta name="citation_firstpage" content="499">
+      <meta name="citation_lastpage" content="508">
+      <meta name="citation_doi" content="10.1080/02681102.2025.2512651">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2025beyond.pdf">
+---
+
+**John Levendis**
+
+*Information Technology for Development* 31(3), 499–508, 2025
+
+This editorial provides methodological guidance for researchers publishing econometric studies in Information Technology for Development (ITD). Successful econometric research requires more than sophisticated techniques, it demands theoretical grounding and careful research design. The paper follows an hourglass structure, addressing research positioning, theoretical framing, and sample selection. Econometrically, I demonstrate how minor changes in model specification can dramatically change a paper's results, particularly with Generalized Method of Moments (GMM) estimators in dynamic panel data. I highlight some recent examples of strong econometric papers in ITD. Researchers in information systems and development economics will find practical strategies for strengthening their econometric arguments and producing more impactful research.
+
+[PDF](../files/levendis2025beyond.pdf) |
+[DOI: 10.1080/02681102.2025.2512651](https://doi.org/10.1080/02681102.2025.2512651)
+
+[← Back to Research](../research.html)

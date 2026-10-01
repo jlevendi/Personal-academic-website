@@ -1,0 +1,27 @@
+---
+title: "The business analytics skills employers are looking for"
+description: "Business analytics is a fast-growing field that requires a combination of technical, analytical, and communication skills. This article aims to identify"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="The business analytics skills employers are looking for">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Indika, Nuwan">
+      <meta name="citation_publication_date" content="2025">
+      <meta name="citation_journal_title" content="Decision Sciences Journal of Innovative Education">
+      <meta name="citation_volume" content="23">
+      <meta name="citation_issue" content="2">
+      <meta name="citation_firstpage" content="e70004">
+      <meta name="citation_doi" content="10.1111/dsji.70004">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2025business.pdf">
+---
+
+**John Levendis and Nuwan Indika**
+
+*Decision Sciences Journal of Innovative Education* 23(2), e70004, 2025
+
+Business analytics is a fast-growing field that requires a combination of technical, analytical, and communication skills. This article aims to identify the most sought after skills for business analytics jobs based on a content analysis of over 2600 online job postings. The results show that the top skills include analytics, communication, visualization, data science, business requirements, and problem-solving. The article also discusses the implications of these findings for curriculum design and career development. Aside from the standard battery of statistics classes, we argue that every analytics curriculum should contain components teaching statistical communication, visualization, databases, and programming as well as include a capstone project.
+
+[PDF](../files/levendis2025business.pdf) |
+[DOI: 10.1111/dsji.70004](https://doi.org/10.1111/dsji.70004)
+
+[← Back to Research](../research.html)

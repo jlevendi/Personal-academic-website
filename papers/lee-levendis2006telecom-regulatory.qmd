@@ -13,14 +13,12 @@ include-in-header:
       <meta name="citation_firstpage" content="407">
       <meta name="citation_lastpage" content="417">
       <meta name="citation_doi" content="10.1093/cep/byj039">
-      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/Lee-Levendis-Gutierrez.pdf">
 ---
 
 **Sang H. Lee and John Levendis**
 
 *Contemporary Economic Policy* 24(3), 407–417, 2006
 
-[PDF](../files/Lee-Levendis-Gutierrez.pdf) |
 [DOI: 10.1093/cep/byj039](https://doi.org/10.1093/cep/byj039)
 
 [← Back to Research](../research.html)

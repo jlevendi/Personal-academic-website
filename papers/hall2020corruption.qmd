@@ -1,0 +1,27 @@
+---
+title: "The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income"
+description: "Corruption is an endemic problem in many developing economies. As a result, economists and political scientists have extensively studied corruption and"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income">
+      <meta name="citation_author" content="Hall, Joshua">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Scarcioffolo, Alexandre R.">
+      <meta name="citation_publication_date" content="2020">
+      <meta name="citation_journal_title" content="The Journal of Developing Areas">
+      <meta name="citation_volume" content="54">
+      <meta name="citation_issue" content="3">
+      <meta name="citation_doi" content="10.1353/jda.2020.0031">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/hall2020corruption.pdf">
+---
+
+**Joshua Hall, John Levendis, and Alexandre R. Scarcioffolo**
+
+*The Journal of Developing Areas* 54(3), 2020
+
+Corruption is an endemic problem in many developing economies. As a result, economists and political scientists have extensively studied corruption and its relationship to economic prosperity. An important mediating factor is the level of economic freedom. Determining causality is difficult as income, economic freedom, and corruption are arguably endogenous. We explicitly model this endogeneity using a panel Vector Auto Regression (pVAR) framework. The pVAR models we estimate are able to explicitly model this endogeneity better than the single-equation panel data models previously used in the literature. We have three primary data sources. Gross Domestic Product (GDP) per capita from the World Bank measures national income. Country-level corruption data comes from the World Bank's Control of Corruption database. The source of our country-level measure of economic freedom is the Fraser Institute's Economic Freedom of the World annual report. Our data set runs from 2002-2013 for over one hundred countries. We begin our results by finding that income, corruption, and economic freedom are integrated, but not cointegrated, thus a pVAR is appropriate. A one-time increase in corruption has a negligible effect on economic freedom and national income. An increase in economic freedom decreases corruption and increases GDP per capita. Increases in national income have no meaningful effect on corruption but have a small and positive effect on economic freedom. In summary, economic freedom decreases corruption and improves the economy and these results hold regardless of the level of economic freedom or whether corruption is absolute or relative.
+
+[PDF](../files/hall2020corruption.pdf) |
+[DOI: 10.1353/jda.2020.0031](https://doi.org/10.1353/jda.2020.0031)
+
+[← Back to Research](../research.html)

@@ -21,6 +21,8 @@ include-in-header:
 
 *Applied Economics* 44(4), 461–469, 2012
 
+We examine the effect of mobile cellular phones on economic growth in sub-Saharan Africa where a marked asymmetry is present between land line penetration and mobile telecommunications expansion. This study extends previous research along two important dimensions. First, we allow for the potential endogeneity between economic growth and telecommunications expansion by employing a special linear Generalized Method of Moments (GMM) estimator. Second, we explicitly model for varying degrees of substitutability between mobile cellular and land-line telephony, so that greater expansion of mobile telecommunications can have a different impact whenever the level of land-line penetration differs. We find that mobile cellular phone expansion is an important determinant of the rate of economic growth in sub-Saharan Africa. Moreover, we find that the contribution of mobile cellular phones to economic growth has been growing in importance in the region, and that the marginal impact of mobile telecommunication services is even greater wherever land-line phones are rare.
+
 [PDF](../files/lee2011telecommunications.pdf) |
 [DOI: 10.1080/00036846.2010.508730](https://doi.org/10.1080/00036846.2010.508730)
 

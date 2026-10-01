@@ -1,0 +1,28 @@
+---
+title: "Flood hazards and urban housing markets: The effects of Katrina on New Orleans"
+description: "This study examines the impacts on consumers' willingness to pay for certain characteristics of housing in greater New Orleans before and after the flooding"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Flood hazards and urban housing markets: The effects of Katrina on New Orleans">
+      <meta name="citation_author" content="McKenzie, Russell">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2010">
+      <meta name="citation_journal_title" content="Journal of Real Estate Finance and Economics">
+      <meta name="citation_volume" content="40">
+      <meta name="citation_issue" content="1">
+      <meta name="citation_firstpage" content="62">
+      <meta name="citation_lastpage" content="76">
+      <meta name="citation_doi" content="10.1007/s11146-008-9141-3">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/mckenzie2010flood.pdf">
+---
+
+**Russell McKenzie and John Levendis**
+
+*Journal of Real Estate Finance and Economics* 40(1), 62–76, 2010
+
+This study examines the impacts on consumers' willingness to pay for certain characteristics of housing in greater New Orleans before and after the flooding of Hurricane Katrina. Single-family home sales from January 2004 to August 2006 are collected and used in a hedonic price function to estimate the changes in the value of amenities, and structural, neighborhood and geographic characteristics, including the mean elevation of each property. Elevation, which buyers did not know for certain prior to the storm, but may now be inferred from water level marks in most neighborhoods, is found to have a positive relationship with selling prices. Results indicate that pre-Katrina, there was a premium of only 1.4% per foot in flood-prone areas, and was insignificant in areas not subject to flooding. This increased to 4.6% for flooded areas after Katrina. These findings are attributed to not only the perceived risk of flooding, but also to the potential of higher compliance costs associated with rebuilding under more stringent National Flood Insurance Program (NFIP) guidelines.
+
+[PDF](../files/mckenzie2010flood.pdf) |
+[DOI: 10.1007/s11146-008-9141-3](https://doi.org/10.1007/s11146-008-9141-3)
+
+[← Back to Research](../research.html)

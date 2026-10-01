@@ -1,0 +1,31 @@
+---
+title: "Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS"
+description: "In an effort to reduce exposure to secondhand smoke, many governments have enacted smoke-free laws in public spaces. To the extent that smoke-free laws"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS">
+      <meta name="citation_author" content="Carton, Thomas W.">
+      <meta name="citation_author" content="Darden, Michael">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Lee, Sang H.">
+      <meta name="citation_author" content="Ricket, Iben">
+      <meta name="citation_publication_date" content="2016">
+      <meta name="citation_journal_title" content="American Journal of Health Economics">
+      <meta name="citation_volume" content="2">
+      <meta name="citation_issue" content="4">
+      <meta name="citation_firstpage" content="535">
+      <meta name="citation_lastpage" content="556">
+      <meta name="citation_doi" content="10.1162/ajhe_a_00061">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/carton2016comprehensive.pdf">
+---
+
+**Thomas W. Carton, Michael Darden, John Levendis, Sang H. Lee, and Iben Ricket**
+
+*American Journal of Health Economics* 2(4), 535–556, 2016
+
+In an effort to reduce exposure to secondhand smoke, many governments have enacted smoke-free laws in public spaces. To the extent that smoke-free laws change perceptions, norms, and attitudes about tobacco use, these laws may also reduce the prevalence and intensity of cigarette consumption. Using nationally representative data on over four million individuals spanning 15 years, we study the average effect of comprehensive, state-level indoor smoking bans on smoking prevalence in the United States. Our research design exploits within-state variation in smoking prevalence, as well as the rapid diffusion of comprehensive bans across states between 2002 and 2010. Our results suggest that a comprehensive indoor smoking ban is associated with a 2.35 percent to 3.29 percent average reduction in smoking prevalence, a range that is robust to various specifications. These effects are roughly equivalent to a $0.95 to $1.33 increase in the average state's cigarette tax in 2010. Finally, we demonstrate that state-level indoor smoking bans in bars may significantly decrease smoking prevalence in specific subpopulations, particularly young, female, low-income, and binge-drinking individuals.
+
+[PDF](../files/carton2016comprehensive.pdf) |
+[DOI: 10.1162/ajhe_a_00061](https://doi.org/10.1162/ajhe_a_00061)
+
+[← Back to Research](../research.html)

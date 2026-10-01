@@ -13,46 +13,47 @@ For a complete list of publications, see my [Google Scholar profile](https://sch
 *Finance Research Letters* 105.\
 [PDF](files/levendis2026observation.pdf) | [DOI](https://doi.org/10.1016/j.frl.2026.110189)
 
-**Who benefits most from structured management practices? Evidence from the World Bank Enterprise Survey** (2026)\
+**[Telecommunications adoption and stock market efficiency in emerging markets](papers/levendis2026telecommunications.html)** (2026)\
+*Information Technology for Development* (in press).\
+[PDF](files/levendis2026telecommunications.pdf)
+
+**[Who benefits most from structured management practices? Evidence from the World Bank Enterprise Survey](papers/gutierrez2026benefits.html)** (2026)\
 With L. Gutiérrez-Ramírez and S.H. Lee.\
 *Eurasian Business Review*.\
-[DOI](https://doi.org/10.1007/s40821-026-00355-9)
+[PDF](files/gutierrez2026benefits.pdf) | [DOI](https://doi.org/10.1007/s40821-026-00355-9)
 
 **[Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison](papers/levendis2025default.html)** (2025)\
 *Economics Bulletin* 45(4), 1915–1925.\
 [PDF](files/Levendis2025default.pdf)
 
-**Beyond technique: The art of writing impactful econometric papers for Information Technology for Development** (2025)\
+**[Beyond technique: The art of writing impactful econometric papers for Information Technology for Development](papers/levendis2025beyond.html)** (2025)\
 *Information Technology for Development* 31(3), 499–508.\
-[DOI](https://doi.org/10.1080/02681102.2025.2512651)
+[PDF](files/levendis2025beyond.pdf) | [DOI](https://doi.org/10.1080/02681102.2025.2512651)
 
-**The business analytics skills employers are looking for** (2025)\
+**[The business analytics skills employers are looking for](papers/levendis2025business.html)** (2025)\
 With N. Indika.\
 *Decision Sciences Journal of Innovative Education* 23(2).\
-[DOI](https://doi.org/10.1111/dsji.70004)
+[PDF](files/levendis2025business.pdf) | [DOI](https://doi.org/10.1111/dsji.70004)
 
-**Telecommunications and stock market efficiency in emerging markets** (2025)\
-*Working paper.*
-
-**What same-sex adoption laws can tell us about the gender wage gap in the United States** (2022)\
+**[What same-sex adoption laws can tell us about the gender wage gap in the United States](papers/levendis2022samesex.html)** (2022)\
 With A. Lowen.\
 *Journal of Family and Economic Issues*.\
-[DOI](https://doi.org/10.1007/s10834-022-09835-2)
+[PDF](files/levendis2022samesex.pdf) | [DOI](https://doi.org/10.1007/s10834-022-09835-2)
 
-**The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income** (2020)\
+**[The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income](papers/hall2020corruption.html)** (2020)\
 With J. Hall and A.R. Scarcioffolo.\
 *Journal of Developing Areas* 54(3).\
-[DOI](https://doi.org/10.1353/jda.2020.0031)
+[PDF](files/hall2020corruption.pdf) | [DOI](https://doi.org/10.1353/jda.2020.0031)
 
-**Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS** (2016)\
+**[Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS](papers/carton2016comprehensive.html)** (2016)\
 With T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\
 *American Journal of Health Economics* 2(4), 535–556.\
-[DOI](https://doi.org/10.1162/AJHE_a_00061)
+[PDF](files/carton2016comprehensive.pdf) | [DOI](https://doi.org/10.1162/ajhe_a_00061)
 
-**The day-of-the-week effect revisited: International evidence** (2014)\
+**[The day-of-the-week effect revisited: International evidence](papers/dicle2014day.html)** (2014)\
 With M.F. Dicle.\
 *Journal of Economics and Finance* 38(3), 407–437.\
-[DOI](https://doi.org/10.1007/s12197-011-9223-6)
+[PDF](files/dicle2014day.pdf) | [DOI](https://doi.org/10.1007/s12197-011-9223-6)
 
 **[On the endogeneity of telecommunications and economic growth: Evidence from Asia](papers/levendis2013endogeneity.html)** (2013)\
 With S.H. Lee.\
@@ -64,12 +65,12 @@ With S.H. Lee and L. Gutierrez.\
 *Applied Economics* 44(4), 461–469.\
 [PDF](files/lee2011telecommunications.pdf) | [DOI](https://doi.org/10.1080/00036846.2010.508730)
 
-**Flood hazards and urban housing markets: The effects of Katrina on New Orleans** (2010)\
+**[Flood hazards and urban housing markets: The effects of Katrina on New Orleans](papers/mckenzie2010flood.html)** (2010)\
 With R. McKenzie.\
 *Journal of Real Estate Finance and Economics* 40(1), 62–76.\
-[DOI](https://doi.org/10.1007/s11146-008-9141-3)
+[PDF](files/mckenzie2010flood.pdf) | [DOI](https://doi.org/10.1007/s11146-008-9141-3)
 
-**[Creation of a separate telecom regulatory agency: A duration analysis of its time pattern](papers/lee-levendis2006telecom-regulatory.html)** (2006)\
+**Creation of a separate telecom regulatory agency: A duration analysis of its time pattern** (2006)\
 With S.H. Lee.\
 *Contemporary Economic Policy* 24(3), 407–417.\
-[PDF](files/Lee-Levendis-Gutierrez.pdf) | [DOI](https://doi.org/10.1093/cep/byj039)
+[DOI](https://doi.org/10.1093/cep/byj039)

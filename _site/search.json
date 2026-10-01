@@ -1,66 +1,52 @@
 [
   {
-    "objectID": "papers/levendis2026observation.html",
-    "href": "papers/levendis2026observation.html",
-    "title": "Observation loss from missing data in dynamic panel GMM",
+    "objectID": "papers/gutierrez2026benefits.html",
+    "href": "papers/gutierrez2026benefits.html",
+    "title": "Who benefits most from structured management practices? Evidence from the World Bank Enterprise Survey",
     "section": "",
-    "text": "John Levendis\nFinance Research Letters 105, 2026\nPDF | DOI: 10.1016/j.frl.2026.110189\n← Back to Research"
+    "text": "Luis Gutiérrez-Ramírez, John Levendis, and Sang Hyup Lee\nEurasian Business Review, 2026\nA significant body of research assumes that modern management practices are less relevant for smaller firms, especially in developing countries. We analyze the relationship between structured management practices and firm performance using World Bank Enterprise Survey (WBES) data covering 94 countries. The positive relationship between structured management practices and firm sales, often documented for larger firms in developed countries, is also present for smaller firms in developing economies. This association is stronger for smaller firms. This points to a resolution to a persistent question in the economics of management literature: if modern management techniques are so good, why don’t more firms use them? Our findings suggest the answer is not low marginal benefits; the marginal benefits are highest among smaller firms. Instead, barriers to adoption such as implementation and regulatory costs may be more relevant, consistent with prior work by Bloom (American Economic Review 109:1648–1683, 2019).\nPDF | DOI: 10.1007/s40821-026-00355-9\n← Back to Research"
   },
   {
-    "objectID": "papers/lee-levendis2006telecom-regulatory.html",
-    "href": "papers/lee-levendis2006telecom-regulatory.html",
-    "title": "Creation of a separate telecom regulatory agency: A duration analysis of its time pattern",
+    "objectID": "papers/levendis2025beyond.html",
+    "href": "papers/levendis2025beyond.html",
+    "title": "Beyond technique: The art of writing impactful econometric papers for Information Technology for Development",
     "section": "",
-    "text": "Sang H. Lee and John Levendis\nContemporary Economic Policy 24(3), 407–417, 2006\nPDF | DOI: 10.1093/cep/byj039\n← Back to Research"
+    "text": "John Levendis\nInformation Technology for Development 31(3), 499–508, 2025\nThis editorial provides methodological guidance for researchers publishing econometric studies in Information Technology for Development (ITD). Successful econometric research requires more than sophisticated techniques, it demands theoretical grounding and careful research design. The paper follows an hourglass structure, addressing research positioning, theoretical framing, and sample selection. Econometrically, I demonstrate how minor changes in model specification can dramatically change a paper’s results, particularly with Generalized Method of Moments (GMM) estimators in dynamic panel data. I highlight some recent examples of strong econometric papers in ITD. Researchers in information systems and development economics will find practical strategies for strengthening their econometric arguments and producing more impactful research.\nPDF | DOI: 10.1080/02681102.2025.2512651\n← Back to Research"
   },
   {
-    "objectID": "papers/lee2011telecommunications.html",
-    "href": "papers/lee2011telecommunications.html",
-    "title": "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa",
+    "objectID": "papers/levendis2022samesex.html",
+    "href": "papers/levendis2022samesex.html",
+    "title": "What same-sex adoption laws can tell us about the gender wage gap in the United States",
     "section": "",
-    "text": "Sang H. Lee, John Levendis, and Luis Gutierrez\nApplied Economics 44(4), 461–469, 2012\nPDF | DOI: 10.1080/00036846.2010.508730\n← Back to Research"
+    "text": "John Levendis and Aaron Lowen\nJournal of Family and Economic Issues, 2022\nGender wage gaps are frequently explained as resulting from direct discrimination, employers’ preferences over personality traits, and differing labor force attachment. We rely on a natural quasi-experiment using exogenous changes in state-level, same-sex adoption laws to distinguish between the competing explanations of the gender wage gap. Estimates from a differences-in-differences model show the wage gap between lesbians and heterosexual women shrank or inverted in those states which legalized adoption by same-sex couples. The wage gap did not change for men. This supports the parenthood hypothesis as a viable explanation for a portion of the gender wage gap.\nPDF | DOI: 10.1007/s10834-022-09835-2\n← Back to Research"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "papers/carton2016comprehensive.html",
+    "href": "papers/carton2016comprehensive.html",
+    "title": "Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS",
     "section": "",
-    "text": "Download CV"
+    "text": "Thomas W. Carton, Michael Darden, John Levendis, Sang H. Lee, and Iben Ricket\nAmerican Journal of Health Economics 2(4), 535–556, 2016\nIn an effort to reduce exposure to secondhand smoke, many governments have enacted smoke-free laws in public spaces. To the extent that smoke-free laws change perceptions, norms, and attitudes about tobacco use, these laws may also reduce the prevalence and intensity of cigarette consumption. Using nationally representative data on over four million individuals spanning 15 years, we study the average effect of comprehensive, state-level indoor smoking bans on smoking prevalence in the United States. Our research design exploits within-state variation in smoking prevalence, as well as the rapid diffusion of comprehensive bans across states between 2002 and 2010. Our results suggest that a comprehensive indoor smoking ban is associated with a 2.35 percent to 3.29 percent average reduction in smoking prevalence, a range that is robust to various specifications. These effects are roughly equivalent to a $0.95 to $1.33 increase in the average state’s cigarette tax in 2010. Finally, we demonstrate that state-level indoor smoking bans in bars may significantly decrease smoking prevalence in specific subpopulations, particularly young, female, low-income, and binge-drinking individuals.\nPDF | DOI: 10.1162/ajhe_a_00061\n← Back to Research"
   },
   {
-    "objectID": "book.html",
-    "href": "book.html",
-    "title": "Time Series Econometrics: Learning Through Replication",
+    "objectID": "papers/mckenzie2010flood.html",
+    "href": "papers/mckenzie2010flood.html",
+    "title": "Flood hazards and urban housing markets: The effects of Katrina on New Orleans",
     "section": "",
-    "text": "Time Series Econometrics: Learning Through Replication\nSpringer Texts in Business and Economics\nSecond Edition, 2023 | First Edition, 2018\nSpringer International Publishing | 488 pages\n\n\n\n\nSpringer | Amazon\nThis textbook teaches time series econometrics through replication rather than theorem and proof. Students work through landmark papers in economics and finance — by Granger and Newbold, Nelson and Plosser, Perron, Bollerslev, Sims, Arellano and Bond, and others — using the original data and reproducing published results in Stata. Topics progress from univariate ARMA models through unit root testing, structural breaks, ARCH/GARCH models, vector autoregressions, and static and dynamic panel data models. The book includes many worked examples and data-driven exercises, and is intended for graduate students, advanced undergraduates, and practitioners."
+    "text": "Russell McKenzie and John Levendis\nJournal of Real Estate Finance and Economics 40(1), 62–76, 2010\nThis study examines the impacts on consumers’ willingness to pay for certain characteristics of housing in greater New Orleans before and after the flooding of Hurricane Katrina. Single-family home sales from January 2004 to August 2006 are collected and used in a hedonic price function to estimate the changes in the value of amenities, and structural, neighborhood and geographic characteristics, including the mean elevation of each property. Elevation, which buyers did not know for certain prior to the storm, but may now be inferred from water level marks in most neighborhoods, is found to have a positive relationship with selling prices. Results indicate that pre-Katrina, there was a premium of only 1.4% per foot in flood-prone areas, and was insignificant in areas not subject to flooding. This increased to 4.6% for flooded areas after Katrina. These findings are attributed to not only the perceived risk of flooding, but also to the potential of higher compliance costs associated with rebuilding under more stringent National Flood Insurance Program (NFIP) guidelines.\nPDF | DOI: 10.1007/s11146-008-9141-3\n← Back to Research"
   },
   {
-    "objectID": "book.html#supplementary-materials",
-    "href": "book.html#supplementary-materials",
-    "title": "Time Series Econometrics: Learning Through Replication",
-    "section": "Supplementary Materials",
-    "text": "Supplementary Materials\nData | Stata Do-Files | GitHub Repository"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John Levendis",
+    "objectID": "papers/levendis2025default.html",
+    "href": "papers/levendis2025default.html",
+    "title": "Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison",
     "section": "",
-    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+    "text": "John Levendis\nEconomics Bulletin 45(4), 1915–1925, 2025\nThe Arellano-Bond type dynamic panel estimators are known to suffer from over-instrumentation. Using Monte Carlo simulations, we compare Difference and System GMM with both default and collapsed instrument sets across varying numbers of countries and time periods typical in macroeconomic analysis. Collapsing consistently outperforms default instrumentation, providing more accurate estimates, especially as T increases. System GMM with collapsed instruments performs best overall, especially for endogenous variables. These findings strongly support using collapsed instruments for the analysis of macroeconomic panels, regardless of the number of countries or time periods.\nPDF\n← Back to Research"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "papers/levendis2013endogeneity.html",
+    "href": "papers/levendis2013endogeneity.html",
+    "title": "On the endogeneity of telecommunications and economic growth: Evidence from Asia",
     "section": "",
-    "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
-  },
-  {
-    "objectID": "research.html#selected-publications",
-    "href": "research.html#selected-publications",
-    "title": "Research",
-    "section": "Selected Publications",
-    "text": "Selected Publications\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF | DOI\nWho benefits most from structured management practices? Evidence from the World Bank Enterprise Survey (2026)\nWith L. Gutiérrez-Ramírez and S.H. Lee.\nEurasian Business Review.\nDOI\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nBeyond technique: The art of writing impactful econometric papers for Information Technology for Development (2025)\nInformation Technology for Development 31(3), 499–508.\nDOI\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2).\nDOI\nTelecommunications and stock market efficiency in emerging markets (2025)\nWorking paper.\nWhat same-sex adoption laws can tell us about the gender wage gap in the United States (2022)\nWith A. Lowen.\nJournal of Family and Economic Issues.\nDOI\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nDOI\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nDOI\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nDOI\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF | DOI\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF | DOI\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nDOI\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nPDF | DOI"
+    "text": "John Levendis and Sang H. Lee\nInformation Technology for Development 19(1), 62–85, 2013\nThe impact of mobile and fixed telephones on economic growth has been the subject of increasing scrutiny in the literature on economic development. It is even of interest to theoretical macroeconomists, as it provides a useful test of the positive network externalities that should be present if endogenous growth theory is correct. We study the relationship between teledensity and growth in Asia, as the countries there have experienced wildly different levels of telephone penetration per capita, and of rates of growth of GDP per capita. We estimate several econometric models, one which explicitly treats telecom as strictly exogenous, and others which treat it as endogenous. Our conclusions are robust to the econometric specification. We find that the impact of teledensity on growth is positive, and increases with the level of telephone penetration. This provides support for endogenous growth theory.\nPDF | DOI: 10.1080/02681102.2012.694793\n← Back to Research"
   },
   {
     "objectID": "teaching.html",
@@ -77,17 +63,94 @@
     "text": "Introduction to Data (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
   },
   {
-    "objectID": "papers/levendis2013endogeneity.html",
-    "href": "papers/levendis2013endogeneity.html",
-    "title": "On the endogeneity of telecommunications and economic growth: Evidence from Asia",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "John Levendis and Sang H. Lee\nInformation Technology for Development 19(1), 62–85, 2013\nPDF | DOI: 10.1080/02681102.2012.694793\n← Back to Research"
+    "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
   },
   {
-    "objectID": "papers/levendis2025default.html",
-    "href": "papers/levendis2025default.html",
-    "title": "Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison",
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF | DOI\nTelecommunications adoption and stock market efficiency in emerging markets (2026)\nInformation Technology for Development (in press).\nPDF\nWho benefits most from structured management practices? Evidence from the World Bank Enterprise Survey (2026)\nWith L. Gutiérrez-Ramírez and S.H. Lee.\nEurasian Business Review.\nPDF | DOI\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nBeyond technique: The art of writing impactful econometric papers for Information Technology for Development (2025)\nInformation Technology for Development 31(3), 499–508.\nPDF | DOI\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2).\nPDF | DOI\nWhat same-sex adoption laws can tell us about the gender wage gap in the United States (2022)\nWith A. Lowen.\nJournal of Family and Economic Issues.\nPDF | DOI\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nPDF | DOI\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nPDF | DOI\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nPDF | DOI\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF | DOI\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF | DOI\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nPDF | DOI\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nDOI"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Levendis",
     "section": "",
-    "text": "John Levendis\nEconomics Bulletin 45(4), 1915–1925, 2025\nPDF\n← Back to Research"
+    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+  },
+  {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "Time Series Econometrics: Learning Through Replication",
+    "section": "",
+    "text": "Time Series Econometrics: Learning Through Replication\nSpringer Texts in Business and Economics\nSecond Edition, 2023 | First Edition, 2018\nSpringer International Publishing | 488 pages\n\n\n\n\nSpringer | Amazon\nThis textbook teaches time series econometrics through replication rather than theorem and proof. Students work through landmark papers in economics and finance — by Granger and Newbold, Nelson and Plosser, Perron, Bollerslev, Sims, Arellano and Bond, and others — using the original data and reproducing published results in Stata. Topics progress from univariate ARMA models through unit root testing, structural breaks, ARCH/GARCH models, vector autoregressions, and static and dynamic panel data models. The book includes many worked examples and data-driven exercises, and is intended for graduate students, advanced undergraduates, and practitioners."
+  },
+  {
+    "objectID": "book.html#supplementary-materials",
+    "href": "book.html#supplementary-materials",
+    "title": "Time Series Econometrics: Learning Through Replication",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\nData | Stata Do-Files | GitHub Repository"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "papers/lee2011telecommunications.html",
+    "href": "papers/lee2011telecommunications.html",
+    "title": "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa",
+    "section": "",
+    "text": "Sang H. Lee, John Levendis, and Luis Gutierrez\nApplied Economics 44(4), 461–469, 2012\nWe examine the effect of mobile cellular phones on economic growth in sub-Saharan Africa where a marked asymmetry is present between land line penetration and mobile telecommunications expansion. This study extends previous research along two important dimensions. First, we allow for the potential endogeneity between economic growth and telecommunications expansion by employing a special linear Generalized Method of Moments (GMM) estimator. Second, we explicitly model for varying degrees of substitutability between mobile cellular and land-line telephony, so that greater expansion of mobile telecommunications can have a different impact whenever the level of land-line penetration differs. We find that mobile cellular phone expansion is an important determinant of the rate of economic growth in sub-Saharan Africa. Moreover, we find that the contribution of mobile cellular phones to economic growth has been growing in importance in the region, and that the marginal impact of mobile telecommunication services is even greater wherever land-line phones are rare.\nPDF | DOI: 10.1080/00036846.2010.508730\n← Back to Research"
+  },
+  {
+    "objectID": "papers/lee-levendis2006telecom-regulatory.html",
+    "href": "papers/lee-levendis2006telecom-regulatory.html",
+    "title": "Creation of a separate telecom regulatory agency: A duration analysis of its time pattern",
+    "section": "",
+    "text": "Sang H. Lee and John Levendis\nContemporary Economic Policy 24(3), 407–417, 2006\nDOI: 10.1093/cep/byj039\n← Back to Research"
+  },
+  {
+    "objectID": "papers/levendis2026observation.html",
+    "href": "papers/levendis2026observation.html",
+    "title": "Observation loss from missing data in dynamic panel GMM",
+    "section": "",
+    "text": "John Levendis\nFinance Research Letters 105, 2026\nMissing data in dynamic panel models estimated by GMM cause observation losses that exceed the number of missing cells. First-differencing exacerbates this effect, eliminating roughly 1.8 GMM-usable observations per missing cell. The problem compounds rapidly with multiple endogenous regressors. Over three variables, actual retention is roughly half of what listwise deletion would predict. Orthogonal deviations and system GMM both mitigate the loss and, additionally, preserve the strength of surviving instruments. These results are particularly relevant for finance, where dynamic panel GMM is widely used and where many regressors of interest are incomplete for substantial fractions of the sample. The findings provide practical guidance on estimator choice, variable selection, and the potential value of imputation.\nPDF | DOI: 10.1016/j.frl.2026.110189\n← Back to Research"
+  },
+  {
+    "objectID": "papers/dicle2014day.html",
+    "href": "papers/dicle2014day.html",
+    "title": "The day-of-the-week effect revisited: International evidence",
+    "section": "",
+    "text": "Mehmet F. Dicle and John D. Levendis\nJournal of Economics and Finance 38(3), 407–437, 2014\nThe aim of this study is to determine whether the DOW effect still exists, and to evaluate empirically the explanations of the DOW effect for international equity markets. Evaluating 51 markets in 33 countries for the period between January 2000 and December 2007, reveals that the DOW effect persists for a significant proportion of equity markets. Evaluating open-to-close returns, liquidity, size effect and possible spill-over effects, the DOW effect can be explained for almost all the exchanges. Individual stock analysis, covering 37,631 stocks traded in 51 equity markets shows that a DOW effect in returns exists for a statistically significant proportion of individual stocks in almost all of the markets in the study. Even markets without a market-level DOW effect contain a surprisingly large proportion of stocks with individual-level DOW effects. Interestingly, this proportion is only marginally lower than that which is found in markets with a market-level DOW effect.\nPDF | DOI: 10.1007/s12197-011-9223-6\n← Back to Research"
+  },
+  {
+    "objectID": "papers/hall2020corruption.html",
+    "href": "papers/hall2020corruption.html",
+    "title": "The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income",
+    "section": "",
+    "text": "Joshua Hall, John Levendis, and Alexandre R. Scarcioffolo\nThe Journal of Developing Areas 54(3), 2020\nCorruption is an endemic problem in many developing economies. As a result, economists and political scientists have extensively studied corruption and its relationship to economic prosperity. An important mediating factor is the level of economic freedom. Determining causality is difficult as income, economic freedom, and corruption are arguably endogenous. We explicitly model this endogeneity using a panel Vector Auto Regression (pVAR) framework. The pVAR models we estimate are able to explicitly model this endogeneity better than the single-equation panel data models previously used in the literature. We have three primary data sources. Gross Domestic Product (GDP) per capita from the World Bank measures national income. Country-level corruption data comes from the World Bank’s Control of Corruption database. The source of our country-level measure of economic freedom is the Fraser Institute’s Economic Freedom of the World annual report. Our data set runs from 2002-2013 for over one hundred countries. We begin our results by finding that income, corruption, and economic freedom are integrated, but not cointegrated, thus a pVAR is appropriate. A one-time increase in corruption has a negligible effect on economic freedom and national income. An increase in economic freedom decreases corruption and increases GDP per capita. Increases in national income have no meaningful effect on corruption but have a small and positive effect on economic freedom. In summary, economic freedom decreases corruption and improves the economy and these results hold regardless of the level of economic freedom or whether corruption is absolute or relative.\nPDF | DOI: 10.1353/jda.2020.0031\n← Back to Research"
+  },
+  {
+    "objectID": "papers/levendis2025business.html",
+    "href": "papers/levendis2025business.html",
+    "title": "The business analytics skills employers are looking for",
+    "section": "",
+    "text": "John Levendis and Nuwan Indika\nDecision Sciences Journal of Innovative Education 23(2), e70004, 2025\nBusiness analytics is a fast-growing field that requires a combination of technical, analytical, and communication skills. This article aims to identify the most sought after skills for business analytics jobs based on a content analysis of over 2600 online job postings. The results show that the top skills include analytics, communication, visualization, data science, business requirements, and problem-solving. The article also discusses the implications of these findings for curriculum design and career development. Aside from the standard battery of statistics classes, we argue that every analytics curriculum should contain components teaching statistical communication, visualization, databases, and programming as well as include a capstone project.\nPDF | DOI: 10.1111/dsji.70004\n← Back to Research"
+  },
+  {
+    "objectID": "papers/levendis2026telecommunications.html",
+    "href": "papers/levendis2026telecommunications.html",
+    "title": "Telecommunications adoption and stock market efficiency in emerging markets",
+    "section": "",
+    "text": "John Levendis\nInformation Technology for Development (in press), 2026\nTelecommunications has improved price discovery in commodity markets across the developing world. Whether it similarly affects securities markets remains untested. We examine the relationship between telecommunications adoption and stock market efficiency across 20 emerging markets, using runs tests, augmented Dickey-Fuller tests, and variance ratio tests. Efficiency measures based on serial correlation show a positive association between telecommunications adoption and market efficiency, whereas variance ratio tests do not. The association is stronger for telephone and mobile cellular subscriptions than for broadband, which shows no significant relationship with efficiency. Drawing on affordance theory, we argue that telephony affords synchronous communication that supports rapid price discovery, while broadband affords asynchronous information retrieval less directly connected to daily price formation. These findings extend ICT4D research on telecommunications and financial development from banking and mobile money into securities markets, and suggest that basic connectivity may matter more than advanced access for how stock prices incorporate information.\nPDF\n← Back to Research"
   }
 ]

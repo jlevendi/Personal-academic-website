@@ -1,0 +1,24 @@
+---
+title: "What same-sex adoption laws can tell us about the gender wage gap in the United States"
+description: "Gender wage gaps are frequently explained as resulting from direct discrimination, employers' preferences over personality traits, and differing labor"
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="What same-sex adoption laws can tell us about the gender wage gap in the United States">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Lowen, Aaron">
+      <meta name="citation_publication_date" content="2022">
+      <meta name="citation_journal_title" content="Journal of Family and Economic Issues">
+      <meta name="citation_doi" content="10.1007/s10834-022-09835-2">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2022samesex.pdf">
+---
+
+**John Levendis and Aaron Lowen**
+
+*Journal of Family and Economic Issues*, 2022
+
+Gender wage gaps are frequently explained as resulting from direct discrimination, employers' preferences over personality traits, and differing labor force attachment. We rely on a natural quasi-experiment using exogenous changes in state-level, same-sex adoption laws to distinguish between the competing explanations of the gender wage gap. Estimates from a differences-in-differences model show the wage gap between lesbians and heterosexual women shrank or inverted in those states which legalized adoption by same-sex couples. The wage gap did not change for men. This supports the parenthood hypothesis as a viable explanation for a portion of the gender wage gap.
+
+[PDF](../files/levendis2022samesex.pdf) |
+[DOI: 10.1007/s10834-022-09835-2](https://doi.org/10.1007/s10834-022-09835-2)
+
+[← Back to Research](../research.html)
