@@ -3,7 +3,7 @@ title: "Book"
 ---
 
 ::: {layout="[30,70]"}
-![](files/book-cover.jpg)
+![](files/book-cover.jpg){fig-alt="Cover of Time Series Econometrics: Learning Through Replication, Second Edition"}
 
 **Time Series Econometrics: Learning Through Replication**  
 *Springer Texts in Business and Economics*  

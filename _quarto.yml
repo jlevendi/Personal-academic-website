@@ -1,7 +1,11 @@
 project:
   type: website
+  resources:
+    - _redirects
+    - robots.txt
 
 website:
+  site-url: "https://johnlevendis.com"
   title: "John Levendis"
   navbar:
     left:

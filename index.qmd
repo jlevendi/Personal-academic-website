@@ -2,6 +2,7 @@
 title: "John Levendis"
 subtitle: "Professor of Practice in Data Science, Tulane University"
 image: photo.jpg
+image-alt: "John Levendis"
 about:
   template: trestles
   links:

@@ -157,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout="[30,70]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<p><img src="files/book-cover.jpg" class="img-fluid"></p>
+<p><img src="files/book-cover.jpg" class="img-fluid" alt="Cover of Time Series Econometrics: Learning Through Replication, Second Edition"></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
 <p><strong>Time Series Econometrics: Learning Through Replication</strong><br>
@@ -258,7 +258,7 @@ Springer International Publishing | 488 pages</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/johnlevendis\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
