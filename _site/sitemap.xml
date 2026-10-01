@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://johnlevendis.com/cv.html</loc>
-    <lastmod>2026-10-01T14:45:33.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://johnlevendis.com/book.html</loc>
-    <lastmod>2026-10-01T14:45:31.310Z</lastmod>
-  </url>
-  <url>
-    <loc>https://johnlevendis.com/index.html</loc>
-    <lastmod>2026-10-01T14:45:30.578Z</lastmod>
+    <loc>https://johnlevendis.com/teaching.html</loc>
+    <lastmod>2026-10-01T14:45:33.063Z</lastmod>
   </url>
   <url>
     <loc>https://johnlevendis.com/research.html</loc>
     <lastmod>2026-10-01T14:45:32.174Z</lastmod>
   </url>
   <url>
-    <loc>https://johnlevendis.com/teaching.html</loc>
-    <lastmod>2026-10-01T14:45:33.063Z</lastmod>
+    <loc>https://johnlevendis.com/index.html</loc>
+    <lastmod>2026-10-01T14:45:30.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://johnlevendis.com/book.html</loc>
+    <lastmod>2026-10-01T14:45:31.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://johnlevendis.com/cv.html</loc>
+    <lastmod>2026-10-01T14:45:33.833Z</lastmod>
   </url>
 </urlset>

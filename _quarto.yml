@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - _redirects
+    - _headers
     - robots.txt
 
 website:
