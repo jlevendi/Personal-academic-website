@@ -1,6 +1,6 @@
 ---
 title: "John Levendis"
-description: "John Levendis is a Professor of Practice in Data Science at Tulane University's CAIDS. He teaches AI, machine learning, and statistics, and researches technology's impact on the economy."
+description: "John Levendis studies how telecommunications infrastructure affects economic growth, firm performance, and financial markets in developing countries. Professor of Practice in Data Science at Tulane CAIDS."
 subtitle: "Professor of Practice in Data Science, Tulane University"
 image: photo.jpg
 image-alt: "John Levendis"
@@ -44,10 +44,8 @@ about:
         href: https://orcid.org/0000-0001-9529-2998
 ---
 
-I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.
+My research examines how telecommunications infrastructure shapes economic outcomes in developing countries — from mobile phone adoption and GDP growth in sub-Saharan Africa to stock market efficiency in emerging markets. I use panel data and GMM methods to address the endogeneity problems that make these questions hard.
 
-My research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.
+I am a Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University. I teach courses in artificial intelligence, machine learning, and statistics. I am also the author of [*Time Series Econometrics: Learning Through Replication*](book.html) (Springer, 2nd ed. 2023).
 
-I teach courses in artificial intelligence, machine learning, and statistics.
-
-I also write about research and data science at [Substack](https://johnlevendis.substack.com).
+I write about research and data science at [Substack](https://johnlevendis.substack.com).

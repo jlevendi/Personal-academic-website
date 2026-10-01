@@ -70,18 +70,32 @@
     "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
   },
   {
-    "objectID": "research.html#selected-publications",
-    "href": "research.html#selected-publications",
+    "objectID": "research.html#telecommunications-and-economic-development",
+    "href": "research.html#telecommunications-and-economic-development",
     "title": "Research",
-    "section": "Selected Publications",
-    "text": "Selected Publications\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF | DOI\nTelecommunications adoption and stock market efficiency in emerging markets (2026)\nInformation Technology for Development (in press).\nPDF\nWho benefits most from structured management practices? Evidence from the World Bank Enterprise Survey (2026)\nWith L. Gutiérrez-Ramírez and S.H. Lee.\nEurasian Business Review.\nPDF | DOI\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nBeyond technique: The art of writing impactful econometric papers for Information Technology for Development (2025)\nInformation Technology for Development 31(3), 499–508.\nPDF | DOI\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2).\nPDF | DOI\nWhat same-sex adoption laws can tell us about the gender wage gap in the United States (2022)\nWith A. Lowen.\nJournal of Family and Economic Issues.\nPDF | DOI\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nPDF | DOI\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nPDF | DOI\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nPDF | DOI\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF | DOI\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF | DOI\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nPDF | DOI\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nDOI"
+    "section": "Telecommunications and Economic Development",
+    "text": "Telecommunications and Economic Development\nTelecommunications adoption and stock market efficiency in emerging markets (2026)\nInformation Technology for Development (in press).\nPDF\nWho benefits most from structured management practices? Evidence from the World Bank Enterprise Survey (2026)\nWith L. Gutiérrez-Ramírez and S.H. Lee.\nEurasian Business Review.\nPDF | DOI\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF | DOI\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF | DOI\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nDOI"
+  },
+  {
+    "objectID": "research.html#econometric-methods-dynamic-panel-gmm",
+    "href": "research.html#econometric-methods-dynamic-panel-gmm",
+    "title": "Research",
+    "section": "Econometric Methods: Dynamic Panel GMM",
+    "text": "Econometric Methods: Dynamic Panel GMM\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF | DOI\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nBeyond technique: The art of writing impactful econometric papers for Information Technology for Development (2025)\nInformation Technology for Development 31(3), 499–508.\nPDF | DOI"
+  },
+  {
+    "objectID": "research.html#applied-microeconomics",
+    "href": "research.html#applied-microeconomics",
+    "title": "Research",
+    "section": "Applied Microeconomics",
+    "text": "Applied Microeconomics\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2).\nPDF | DOI\nWhat same-sex adoption laws can tell us about the gender wage gap in the United States (2022)\nWith A. Lowen.\nJournal of Family and Economic Issues.\nPDF | DOI\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nPDF | DOI\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nPDF | DOI\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nPDF | DOI\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nPDF | DOI"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "John Levendis",
     "section": "",
-    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+    "text": "My research examines how telecommunications infrastructure shapes economic outcomes in developing countries — from mobile phone adoption and GDP growth in sub-Saharan Africa to stock market efficiency in emerging markets. I use panel data and GMM methods to address the endogeneity problems that make these questions hard.\nI am a Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University. I teach courses in artificial intelligence, machine learning, and statistics. I am also the author of Time Series Econometrics: Learning Through Replication (Springer, 2nd ed. 2023).\nI write about research and data science at Substack."
   },
   {
     "objectID": "book.html",

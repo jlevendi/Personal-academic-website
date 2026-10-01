@@ -1,17 +1,13 @@
 ---
 title: "Research"
-description: "Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods."
+description: "Selected publications by John Levendis on telecommunications and economic development, dynamic panel GMM methods, and applied microeconomics."
 ---
 
 My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.
 
 For a complete list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=z3fzlb4AAAAJ) or [ORCID profile](https://orcid.org/0000-0001-9529-2998).
 
-## Selected Publications
-
-**[Observation loss from missing data in dynamic panel GMM](papers/levendis2026observation.html)** (2026)\
-*Finance Research Letters* 105.\
-[PDF](files/levendis2026observation.pdf) | [DOI](https://doi.org/10.1016/j.frl.2026.110189)
+## Telecommunications and Economic Development
 
 **[Telecommunications adoption and stock market efficiency in emerging markets](papers/levendis2026telecommunications.html)** (2026)\
 *Information Technology for Development* (in press).\
@@ -22,6 +18,27 @@ With L. Gutiérrez-Ramírez and S.H. Lee.\
 *Eurasian Business Review*.\
 [PDF](files/gutierrez2026benefits.pdf) | [DOI](https://doi.org/10.1007/s40821-026-00355-9)
 
+**[On the endogeneity of telecommunications and economic growth: Evidence from Asia](papers/levendis2013endogeneity.html)** (2013)\
+With S.H. Lee.\
+*Information Technology for Development* 19(1), 62–85.\
+[PDF](files/levendis2013endogeneity.pdf) | [DOI](https://doi.org/10.1080/02681102.2012.694793)
+
+**[Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa](papers/lee2011telecommunications.html)** (2012)\
+With S.H. Lee and L. Gutierrez.\
+*Applied Economics* 44(4), 461–469.\
+[PDF](files/lee2011telecommunications.pdf) | [DOI](https://doi.org/10.1080/00036846.2010.508730)
+
+**Creation of a separate telecom regulatory agency: A duration analysis of its time pattern** (2006)\
+With S.H. Lee.\
+*Contemporary Economic Policy* 24(3), 407–417.\
+[DOI](https://doi.org/10.1093/cep/byj039)
+
+## Econometric Methods: Dynamic Panel GMM
+
+**[Observation loss from missing data in dynamic panel GMM](papers/levendis2026observation.html)** (2026)\
+*Finance Research Letters* 105.\
+[PDF](files/levendis2026observation.pdf) | [DOI](https://doi.org/10.1016/j.frl.2026.110189)
+
 **[Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison](papers/levendis2025default.html)** (2025)\
 *Economics Bulletin* 45(4), 1915–1925.\
 [PDF](files/Levendis2025default.pdf)
@@ -29,6 +46,8 @@ With L. Gutiérrez-Ramírez and S.H. Lee.\
 **[Beyond technique: The art of writing impactful econometric papers for Information Technology for Development](papers/levendis2025beyond.html)** (2025)\
 *Information Technology for Development* 31(3), 499–508.\
 [PDF](files/levendis2025beyond.pdf) | [DOI](https://doi.org/10.1080/02681102.2025.2512651)
+
+## Applied Microeconomics
 
 **[The business analytics skills employers are looking for](papers/levendis2025business.html)** (2025)\
 With N. Indika.\
@@ -55,22 +74,7 @@ With M.F. Dicle.\
 *Journal of Economics and Finance* 38(3), 407–437.\
 [PDF](files/dicle2014day.pdf) | [DOI](https://doi.org/10.1007/s12197-011-9223-6)
 
-**[On the endogeneity of telecommunications and economic growth: Evidence from Asia](papers/levendis2013endogeneity.html)** (2013)\
-With S.H. Lee.\
-*Information Technology for Development* 19(1), 62–85.\
-[PDF](files/levendis2013endogeneity.pdf) | [DOI](https://doi.org/10.1080/02681102.2012.694793)
-
-**[Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa](papers/lee2011telecommunications.html)** (2012)\
-With S.H. Lee and L. Gutierrez.\
-*Applied Economics* 44(4), 461–469.\
-[PDF](files/lee2011telecommunications.pdf) | [DOI](https://doi.org/10.1080/00036846.2010.508730)
-
 **[Flood hazards and urban housing markets: The effects of Katrina on New Orleans](papers/mckenzie2010flood.html)** (2010)\
 With R. McKenzie.\
 *Journal of Real Estate Finance and Economics* 40(1), 62–76.\
 [PDF](files/mckenzie2010flood.pdf) | [DOI](https://doi.org/10.1007/s11146-008-9141-3)
-
-**Creation of a separate telecom regulatory agency: A duration analysis of its time pattern** (2006)\
-With S.H. Lee.\
-*Contemporary Economic Policy* 24(3), 407–417.\
-[DOI](https://doi.org/10.1093/cep/byj039)
