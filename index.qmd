@@ -1,8 +1,35 @@
 ---
 title: "John Levendis"
+description: "John Levendis is a Professor of Practice in Data Science at Tulane University's CAIDS. He teaches AI, machine learning, and statistics, and researches technology's impact on the economy."
 subtitle: "Professor of Practice in Data Science, Tulane University"
 image: photo.jpg
 image-alt: "John Levendis"
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "https://johnlevendis.com/#john",
+        "name": "John Levendis",
+        "jobTitle": "Professor of Practice in Data Science",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Connolly Alexander Institute for Data Science (CAIDS), Tulane University",
+          "url": "https://caids.tulane.edu"
+        },
+        "url": "https://johnlevendis.com",
+        "sameAs": [
+          "https://orcid.org/0000-0001-9529-2998",
+          "https://scholar.google.com/citations?user=z3fzlb4AAAAJ",
+          "https://johnlevendis.substack.com",
+          "https://www.youtube.com/@johnlevendis3813",
+          "https://github.com/jlevendi"
+        ],
+        "image": "https://johnlevendis.com/photo.jpg",
+        "email": "jlevendis@tulane.edu"
+      }
+      </script>
 about:
   template: trestles
   links:

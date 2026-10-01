@@ -1,5 +1,33 @@
 ---
-title: "Book"
+title: "Time Series Econometrics: Learning Through Replication"
+description: "Time Series Econometrics: Learning Through Replication (2nd ed., Springer, 2023) by John Levendis. Learn econometrics by reproducing landmark papers in Stata."
+image: files/book-cover.jpg
+image-alt: "Cover of Time Series Econometrics: Learning Through Replication, Second Edition"
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Time Series Econometrics: Learning Through Replication",
+        "author": {
+          "@type": "Person",
+          "@id": "https://johnlevendis.com/#john",
+          "name": "John Levendis"
+        },
+        "bookEdition": "Second Edition",
+        "datePublished": "2023",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Springer"
+        },
+        "isbn": "978-3-031-37310-7",
+        "numberOfPages": 488,
+        "url": "https://link.springer.com/book/10.1007/978-3-031-37310-7",
+        "image": "https://johnlevendis.com/files/book-cover.jpg",
+        "inLanguage": "en"
+      }
+      </script>
 ---
 
 ::: {layout="[30,70]"}

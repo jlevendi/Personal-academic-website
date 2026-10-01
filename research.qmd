@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods."
 ---
 
 My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.

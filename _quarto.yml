@@ -7,6 +7,8 @@ project:
 website:
   site-url: "https://johnlevendis.com"
   title: "John Levendis"
+  open-graph: true
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd

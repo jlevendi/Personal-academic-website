@@ -9,14 +9,14 @@
   {
     "objectID": "book.html",
     "href": "book.html",
-    "title": "Book",
+    "title": "Time Series Econometrics: Learning Through Replication",
     "section": "",
     "text": "Time Series Econometrics: Learning Through Replication\nSpringer Texts in Business and Economics\nSecond Edition, 2023 | First Edition, 2018\nSpringer International Publishing | 488 pages\n\n\n\n\nSpringer | Amazon\nThis textbook teaches time series econometrics through replication rather than theorem and proof. Students work through landmark papers in economics and finance — by Granger and Newbold, Nelson and Plosser, Perron, Bollerslev, Sims, Arellano and Bond, and others — using the original data and reproducing published results in Stata. Topics progress from univariate ARMA models through unit root testing, structural breaks, ARCH/GARCH models, vector autoregressions, and static and dynamic panel data models. The book includes many worked examples and data-driven exercises, and is intended for graduate students, advanced undergraduates, and practitioners."
   },
   {
     "objectID": "book.html#supplementary-materials",
     "href": "book.html#supplementary-materials",
-    "title": "Book",
+    "title": "Time Series Econometrics: Learning Through Replication",
     "section": "Supplementary Materials",
     "text": "Supplementary Materials\nData | Stata Do-Files | GitHub Repository"
   },

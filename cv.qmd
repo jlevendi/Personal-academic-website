@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description: "Curriculum vitae of John Levendis, Professor of Practice in Data Science at Tulane University."
 ---
 
 [Download CV](files/vita-Levendis.pdf)

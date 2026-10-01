@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Courses taught by John Levendis at Tulane University: Introduction to Data, How AI Works, and Practical Machine Learning."
 ---
 
 ## Courses
