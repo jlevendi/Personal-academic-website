@@ -1,0 +1,22 @@
+---
+title: "Observation loss from missing data in dynamic panel GMM"
+description: "This paper examines how missing data leads to observation loss in dynamic panel GMM estimation."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Observation loss from missing data in dynamic panel GMM">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2026">
+      <meta name="citation_journal_title" content="Finance Research Letters">
+      <meta name="citation_volume" content="105">
+      <meta name="citation_doi" content="10.1016/j.frl.2026.110189">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2026observation.pdf">
+---
+
+**John Levendis**
+
+*Finance Research Letters* 105, 2026
+
+[PDF](../files/levendis2026observation.pdf) |
+[DOI: 10.1016/j.frl.2026.110189](https://doi.org/10.1016/j.frl.2026.110189)
+
+[← Back to Research](../research.html)

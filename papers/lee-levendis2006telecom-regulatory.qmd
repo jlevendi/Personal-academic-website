@@ -1,0 +1,26 @@
+---
+title: "Creation of a separate telecom regulatory agency: A duration analysis of its time pattern"
+description: "This paper uses duration analysis to examine the timing of telecom regulatory agency creation across countries."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Creation of a separate telecom regulatory agency: A duration analysis of its time pattern">
+      <meta name="citation_author" content="Lee, Sang H.">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2006">
+      <meta name="citation_journal_title" content="Contemporary Economic Policy">
+      <meta name="citation_volume" content="24">
+      <meta name="citation_issue" content="3">
+      <meta name="citation_firstpage" content="407">
+      <meta name="citation_lastpage" content="417">
+      <meta name="citation_doi" content="10.1093/cep/byj039">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/Lee-Levendis-Gutierrez.pdf">
+---
+
+**Sang H. Lee and John Levendis**
+
+*Contemporary Economic Policy* 24(3), 407–417, 2006
+
+[PDF](../files/Lee-Levendis-Gutierrez.pdf) |
+[DOI: 10.1093/cep/byj039](https://doi.org/10.1093/cep/byj039)
+
+[← Back to Research](../research.html)

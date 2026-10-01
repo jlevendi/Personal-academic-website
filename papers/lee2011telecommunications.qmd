@@ -1,0 +1,27 @@
+---
+title: "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa"
+description: "This paper examines the effect of telecommunications investment on economic growth in sub-Saharan Africa using panel data methods."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa">
+      <meta name="citation_author" content="Lee, Sang H.">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Gutierrez, Luis">
+      <meta name="citation_publication_date" content="2012">
+      <meta name="citation_journal_title" content="Applied Economics">
+      <meta name="citation_volume" content="44">
+      <meta name="citation_issue" content="4">
+      <meta name="citation_firstpage" content="461">
+      <meta name="citation_lastpage" content="469">
+      <meta name="citation_doi" content="10.1080/00036846.2010.508730">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/lee2011telecommunications.pdf">
+---
+
+**Sang H. Lee, John Levendis, and Luis Gutierrez**
+
+*Applied Economics* 44(4), 461–469, 2012
+
+[PDF](../files/lee2011telecommunications.pdf) |
+[DOI: 10.1080/00036846.2010.508730](https://doi.org/10.1080/00036846.2010.508730)
+
+[← Back to Research](../research.html)

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods.">
+<meta name="description" content="This paper examines how missing data leads to observation loss in dynamic panel GMM estimation.">
 
-<title>Research – John Levendis</title>
+<title>Observation loss from missing data in dynamic panel GMM – John Levendis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,24 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,14 +69,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<meta name="citation_title" content="Observation loss from missing data in dynamic panel GMM">
+<meta name="citation_author" content="Levendis, John">
+<meta name="citation_publication_date" content="2026">
+<meta name="citation_journal_title" content="Finance Research Letters">
+<meta name="citation_volume" content="105">
+<meta name="citation_doi" content="10.1016/j.frl.2026.110189">
+<meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2026observation.pdf">
 
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Research – John Levendis">
-<meta property="og:description" content="Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods.">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Observation loss from missing data in dynamic panel GMM – John Levendis">
+<meta property="og:description" content="This paper examines how missing data leads to observation loss in dynamic panel GMM estimation.">
 <meta property="og:site_name" content="John Levendis">
-<meta name="twitter:title" content="Research – John Levendis">
-<meta name="twitter:description" content="Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods.">
+<meta name="twitter:title" content="Observation loss from missing data in dynamic panel GMM – John Levendis">
+<meta name="twitter:description" content="This paper examines how missing data leads to observation loss in dynamic panel GMM estimation.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -87,9 +94,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">John Levendis</span>
     </a>
   </div>
@@ -100,19 +107,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./book.html"> 
+    <a class="nav-link" href="../book.html"> 
 <span class="menu-text">Book</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -124,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Videos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -144,12 +151,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Observation loss from missing data in dynamic panel GMM</h1>
 </div>
 
 <div>
   <div class="description">
-    Selected publications by John Levendis on IT infrastructure, market efficiency, and firm performance in emerging economies, using panel data, VAR, and unit root methods.
+    This paper examines how missing data leads to observation loss in dynamic panel GMM estimation.
   </div>
 </div>
 
@@ -166,64 +173,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.</p>
-<p>For a complete list of publications, see my <a href="https://scholar.google.com/citations?user=z3fzlb4AAAAJ">Google Scholar profile</a> or <a href="https://orcid.org/0000-0001-9529-2998">ORCID profile</a>.</p>
-<section id="selected-publications" class="level2">
-<h2 class="anchored" data-anchor-id="selected-publications">Selected Publications</h2>
-<p><strong><a href="papers/levendis2026observation.html">Observation loss from missing data in dynamic panel GMM</a></strong> (2026)<br>
-<em>Finance Research Letters</em> 105.<br>
-<a href="files/levendis2026observation.pdf">PDF</a> | <a href="https://doi.org/10.1016/j.frl.2026.110189">DOI</a></p>
-<p><strong>Who benefits most from structured management practices? Evidence from the World Bank Enterprise Survey</strong> (2026)<br>
-With L. Gutiérrez-Ramírez and S.H. Lee.<br>
-<em>Eurasian Business Review</em>.<br>
-<a href="https://doi.org/10.1007/s40821-026-00355-9">DOI</a></p>
-<p><strong><a href="papers/levendis2025default.html">Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison</a></strong> (2025)<br>
-<em>Economics Bulletin</em> 45(4), 1915–1925.<br>
-<a href="files/Levendis2025default.pdf">PDF</a></p>
-<p><strong>Beyond technique: The art of writing impactful econometric papers for Information Technology for Development</strong> (2025)<br>
-<em>Information Technology for Development</em> 31(3), 499–508.<br>
-<a href="https://doi.org/10.1080/02681102.2025.2512651">DOI</a></p>
-<p><strong>The business analytics skills employers are looking for</strong> (2025)<br>
-With N. Indika.<br>
-<em>Decision Sciences Journal of Innovative Education</em> 23(2).<br>
-<a href="https://doi.org/10.1111/dsji.70004">DOI</a></p>
-<p><strong>Telecommunications and stock market efficiency in emerging markets</strong> (2025)<br>
-<em>Working paper.</em></p>
-<p><strong>What same-sex adoption laws can tell us about the gender wage gap in the United States</strong> (2022)<br>
-With A. Lowen.<br>
-<em>Journal of Family and Economic Issues</em>.<br>
-<a href="https://doi.org/10.1007/s10834-022-09835-2">DOI</a></p>
-<p><strong>The efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income</strong> (2020)<br>
-With J. Hall and A.R. Scarcioffolo.<br>
-<em>Journal of Developing Areas</em> 54(3).<br>
-<a href="https://doi.org/10.1353/jda.2020.0031">DOI</a></p>
-<p><strong>Comprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS</strong> (2016)<br>
-With T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.<br>
-<em>American Journal of Health Economics</em> 2(4), 535–556.<br>
-<a href="https://doi.org/10.1162/AJHE_a_00061">DOI</a></p>
-<p><strong>The day-of-the-week effect revisited: International evidence</strong> (2014)<br>
-With M.F. Dicle.<br>
-<em>Journal of Economics and Finance</em> 38(3), 407–437.<br>
-<a href="https://doi.org/10.1007/s12197-011-9223-6">DOI</a></p>
-<p><strong><a href="papers/levendis2013endogeneity.html">On the endogeneity of telecommunications and economic growth: Evidence from Asia</a></strong> (2013)<br>
-With S.H. Lee.<br>
-<em>Information Technology for Development</em> 19(1), 62–85.<br>
-<a href="files/levendis2013endogeneity.pdf">PDF</a> | <a href="https://doi.org/10.1080/02681102.2012.694793">DOI</a></p>
-<p><strong><a href="papers/lee2011telecommunications.html">Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa</a></strong> (2012)<br>
-With S.H. Lee and L. Gutierrez.<br>
-<em>Applied Economics</em> 44(4), 461–469.<br>
-<a href="files/lee2011telecommunications.pdf">PDF</a> | <a href="https://doi.org/10.1080/00036846.2010.508730">DOI</a></p>
-<p><strong>Flood hazards and urban housing markets: The effects of Katrina on New Orleans</strong> (2010)<br>
-With R. McKenzie.<br>
-<em>Journal of Real Estate Finance and Economics</em> 40(1), 62–76.<br>
-<a href="https://doi.org/10.1007/s11146-008-9141-3">DOI</a></p>
-<p><strong><a href="papers/lee-levendis2006telecom-regulatory.html">Creation of a separate telecom regulatory agency: A duration analysis of its time pattern</a></strong> (2006)<br>
-With S.H. Lee.<br>
-<em>Contemporary Economic Policy</em> 24(3), 407–417.<br>
-<a href="files/Lee-Levendis-Gutierrez.pdf">PDF</a> | <a href="https://doi.org/10.1093/cep/byj039">DOI</a></p>
+<p><strong>John Levendis</strong></p>
+<p><em>Finance Research Letters</em> 105, 2026</p>
+<p><a href="../files/levendis2026observation.pdf">PDF</a> | <a href="https://doi.org/10.1016/j.frl.2026.110189">DOI: 10.1016/j.frl.2026.110189</a></p>
+<p><a href="../research.html">← Back to Research</a></p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

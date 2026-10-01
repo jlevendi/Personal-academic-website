@@ -1,0 +1,23 @@
+---
+title: "Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison"
+description: "A Monte Carlo study comparing default and collapsed instrument strategies in dynamic panel GMM estimation."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2025">
+      <meta name="citation_journal_title" content="Economics Bulletin">
+      <meta name="citation_volume" content="45">
+      <meta name="citation_issue" content="4">
+      <meta name="citation_firstpage" content="1915">
+      <meta name="citation_lastpage" content="1925">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/Levendis2025default.pdf">
+---
+
+**John Levendis**
+
+*Economics Bulletin* 45(4), 1915–1925, 2025
+
+[PDF](../files/Levendis2025default.pdf)
+
+[← Back to Research](../research.html)

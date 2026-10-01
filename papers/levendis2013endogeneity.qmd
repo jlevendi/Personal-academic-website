@@ -1,0 +1,26 @@
+---
+title: "On the endogeneity of telecommunications and economic growth: Evidence from Asia"
+description: "This paper addresses the endogeneity between telecommunications infrastructure and economic growth using Asian panel data."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="On the endogeneity of telecommunications and economic growth: Evidence from Asia">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_author" content="Lee, Sang H.">
+      <meta name="citation_publication_date" content="2013">
+      <meta name="citation_journal_title" content="Information Technology for Development">
+      <meta name="citation_volume" content="19">
+      <meta name="citation_issue" content="1">
+      <meta name="citation_firstpage" content="62">
+      <meta name="citation_lastpage" content="85">
+      <meta name="citation_doi" content="10.1080/02681102.2012.694793">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2013endogeneity.pdf">
+---
+
+**John Levendis and Sang H. Lee**
+
+*Information Technology for Development* 19(1), 62–85, 2013
+
+[PDF](../files/levendis2013endogeneity.pdf) |
+[DOI: 10.1080/02681102.2012.694793](https://doi.org/10.1080/02681102.2012.694793)
+
+[← Back to Research](../research.html)

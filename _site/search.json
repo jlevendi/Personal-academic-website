@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "papers/levendis2026observation.html",
+    "href": "papers/levendis2026observation.html",
+    "title": "Observation loss from missing data in dynamic panel GMM",
     "section": "",
-    "text": "Introduction to Data (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+    "text": "John Levendis\nFinance Research Letters 105, 2026\nPDF | DOI: 10.1016/j.frl.2026.110189\n← Back to Research"
   },
   {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
+    "objectID": "papers/lee-levendis2006telecom-regulatory.html",
+    "href": "papers/lee-levendis2006telecom-regulatory.html",
+    "title": "Creation of a separate telecom regulatory agency: A duration analysis of its time pattern",
     "section": "",
-    "text": "Introduction to Data (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+    "text": "Sang H. Lee and John Levendis\nContemporary Economic Policy 24(3), 407–417, 2006\nPDF | DOI: 10.1093/cep/byj039\n← Back to Research"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "papers/lee2011telecommunications.html",
+    "href": "papers/lee2011telecommunications.html",
+    "title": "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa",
     "section": "",
-    "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
+    "text": "Sang H. Lee, John Levendis, and Luis Gutierrez\nApplied Economics 44(4), 461–469, 2012\nPDF | DOI: 10.1080/00036846.2010.508730\n← Back to Research"
   },
   {
-    "objectID": "research.html#selected-publications",
-    "href": "research.html#selected-publications",
-    "title": "Research",
-    "section": "Selected Publications",
-    "text": "Selected Publications\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nPDF\nTelecommunications and stock market efficiency in emerging markets (2025)\nWorking paper.\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "John Levendis",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+    "text": "Download CV"
   },
   {
     "objectID": "book.html",
@@ -49,10 +42,52 @@
     "text": "Supplementary Materials\nData | Stata Do-Files | GitHub Repository"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Levendis",
     "section": "",
-    "text": "Download CV"
+    "text": "I am an Economist working as Professor of Practice in Data Science at the Connolly Alexander Institute for Data Science (CAIDS) at Tulane University.\nMy research focuses on the effect of technology on the economy. Specifically, I study how IT infrastructure affects firm performance and financial markets in developing countries.\nI teach courses in artificial intelligence, machine learning, and statistics.\nI also write about research and data science at Substack."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines IT infrastructure, market efficiency, and firm performance, with a particular focus on emerging economies. I use econometric methods including panel data models, VAR, and unit root tests.\nFor a complete list of publications, see my Google Scholar profile or ORCID profile."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nObservation loss from missing data in dynamic panel GMM (2026)\nFinance Research Letters 105.\nPDF | DOI\nWho benefits most from structured management practices? Evidence from the World Bank Enterprise Survey (2026)\nWith L. Gutiérrez-Ramírez and S.H. Lee.\nEurasian Business Review.\nDOI\nDefault and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison (2025)\nEconomics Bulletin 45(4), 1915–1925.\nPDF\nBeyond technique: The art of writing impactful econometric papers for Information Technology for Development (2025)\nInformation Technology for Development 31(3), 499–508.\nDOI\nThe business analytics skills employers are looking for (2025)\nWith N. Indika.\nDecision Sciences Journal of Innovative Education 23(2).\nDOI\nTelecommunications and stock market efficiency in emerging markets (2025)\nWorking paper.\nWhat same-sex adoption laws can tell us about the gender wage gap in the United States (2022)\nWith A. Lowen.\nJournal of Family and Economic Issues.\nDOI\nThe efficient corruption hypothesis and the dynamics between economic freedom, corruption, and national income (2020)\nWith J. Hall and A.R. Scarcioffolo.\nJournal of Developing Areas 54(3).\nDOI\nComprehensive indoor smoking bans and smoking prevalence: Evidence from the BRFSS (2016)\nWith T.W. Carton, M. Darden, S.H. Lee, and I. Ricket.\nAmerican Journal of Health Economics 2(4), 535–556.\nDOI\nThe day-of-the-week effect revisited: International evidence (2014)\nWith M.F. Dicle.\nJournal of Economics and Finance 38(3), 407–437.\nDOI\nOn the endogeneity of telecommunications and economic growth: Evidence from Asia (2013)\nWith S.H. Lee.\nInformation Technology for Development 19(1), 62–85.\nPDF | DOI\nTelecommunications and economic growth: An empirical analysis of sub-Saharan Africa (2012)\nWith S.H. Lee and L. Gutierrez.\nApplied Economics 44(4), 461–469.\nPDF | DOI\nFlood hazards and urban housing markets: The effects of Katrina on New Orleans (2010)\nWith R. McKenzie.\nJournal of Real Estate Finance and Economics 40(1), 62–76.\nDOI\nCreation of a separate telecom regulatory agency: A duration analysis of its time pattern (2006)\nWith S.H. Lee.\nContemporary Economic Policy 24(3), 407–417.\nPDF | DOI"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Data (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Data (DATA 1010)\nTulane University\nSyllabus\nHow AI Works\nTulane University\nSyllabus\nPractical Machine Learning\nTulane University\nSyllabus | Lab Materials"
+  },
+  {
+    "objectID": "papers/levendis2013endogeneity.html",
+    "href": "papers/levendis2013endogeneity.html",
+    "title": "On the endogeneity of telecommunications and economic growth: Evidence from Asia",
+    "section": "",
+    "text": "John Levendis and Sang H. Lee\nInformation Technology for Development 19(1), 62–85, 2013\nPDF | DOI: 10.1080/02681102.2012.694793\n← Back to Research"
+  },
+  {
+    "objectID": "papers/levendis2025default.html",
+    "href": "papers/levendis2025default.html",
+    "title": "Default and collapsed instruments in dynamic panel GMM: A Monte Carlo comparison",
+    "section": "",
+    "text": "John Levendis\nEconomics Bulletin 45(4), 1915–1925, 2025\nPDF\n← Back to Research"
   }
 ]
