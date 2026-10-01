@@ -6,6 +6,7 @@ image: photo.jpg
 image-alt: "John Levendis"
 include-in-header:
   - text: |
+      <meta name="google-site-verification" content="TqWi4fw__i6w4_fAB4GepXuPtS3z5G_cMZPP7HPgqhc" />
       <script type="application/ld+json">
       {
         "@context": "https://schema.org",
