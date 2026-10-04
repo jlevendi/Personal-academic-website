@@ -17,7 +17,7 @@ include-in-header:
         "worksFor": {
           "@type": "Organization",
           "name": "Connolly Alexander Institute for Data Science (CAIDS), Tulane University",
-          "url": "https://caids.tulane.edu"
+          "url": "https://datainstitute.tulane.edu"
         },
         "url": "https://johnlevendis.com",
         "sameAs": [

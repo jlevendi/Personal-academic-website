@@ -6,7 +6,8 @@ a:hover {
   color: #0a5c4d;
 }
 
-/* Hide the empty navbar brand-logo link (no logo is set; the empty <a> is inaccessible) */
-.navbar-brand-logo {
+/* Hide the empty navbar brand-logo link (no logo is set; the empty <a> is inaccessible).
+   Two-class selector needed to override Quarto's bootstrap specificity. */
+.navbar-brand.navbar-brand-logo {
   display: none;
 }
