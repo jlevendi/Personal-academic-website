@@ -63,3 +63,5 @@ External navbar links: Substack (Writing), YouTube (Videos).
 | 2026-10 | Navbar brand-logo CSS specificity fix | One-class selector was overridden by Quarto bootstrap; two-class selector (`.navbar-brand.navbar-brand-logo`) works |
 | 2026-10 | `.html` → pretty URL redirects in `_redirects` | Duplicate content: both `/research` and `/research.html` served the same page; sitemap lists `.html`, so redirect `.html` to extension-less |
 | 2026-10 | Person schema URL fixed to `datainstitute.tulane.edu` | `caids.tulane.edu` does not resolve (DNS error) |
+| 2026-10 | Sitemap post-processed to strip `.html` extensions | Quarto generates sitemap with `.html` URLs, but those 301-redirect to clean URLs; Google flagged "Page with redirect" and "Duplicate without user-selected canonical" |
+| 2026-10 | Paper page `.html` → clean URL redirects added | Same duplicate-content issue as main pages; preemptive fix before Google flags them too |

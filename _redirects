@@ -7,3 +7,20 @@
 /book.html        /book            301
 /teaching.html    /teaching        301
 /cv.html          /cv              301
+/404.html         /404             301
+
+# Paper pages
+/papers/lee2011telecommunications.html          /papers/lee2011telecommunications          301
+/papers/levendis2013endogeneity.html             /papers/levendis2013endogeneity             301
+/papers/lee-levendis2006telecom-regulatory.html  /papers/lee-levendis2006telecom-regulatory  301
+/papers/levendis2025default.html                 /papers/levendis2025default                 301
+/papers/levendis2026observation.html             /papers/levendis2026observation              301
+/papers/mckenzie2010flood.html                   /papers/mckenzie2010flood                   301
+/papers/dicle2014day.html                        /papers/dicle2014day                        301
+/papers/carton2016comprehensive.html             /papers/carton2016comprehensive             301
+/papers/hall2020corruption.html                  /papers/hall2020corruption                  301
+/papers/levendis2022samesex.html                 /papers/levendis2022samesex                 301
+/papers/levendis2025business.html                /papers/levendis2025business                301
+/papers/levendis2025beyond.html                  /papers/levendis2025beyond                  301
+/papers/levendis2026telecommunications.html      /papers/levendis2026telecommunications      301
+/papers/gutierrez2026benefits.html               /papers/gutierrez2026benefits               301

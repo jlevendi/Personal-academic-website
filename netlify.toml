@@ -1,3 +1,3 @@
 [build]
-  command = "mkdir -p $HOME/quarto && curl -fsSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.43/quarto-1.6.43-linux-amd64.tar.gz | tar xz -C $HOME/quarto && $HOME/quarto/quarto-1.6.43/bin/quarto render"
+  command = "mkdir -p $HOME/quarto && curl -fsSL https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.43/quarto-1.6.43-linux-amd64.tar.gz | tar xz -C $HOME/quarto && $HOME/quarto/quarto-1.6.43/bin/quarto render && sed -i 's|\\.html</loc>|</loc>|g' _site/sitemap.xml && sed -i 's|/index</loc>|/</loc>|g' _site/sitemap.xml"
   publish = "_site"
