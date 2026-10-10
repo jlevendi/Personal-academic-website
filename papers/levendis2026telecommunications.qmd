@@ -8,6 +8,29 @@ include-in-header:
       <meta name="citation_publication_date" content="2026">
       <meta name="citation_journal_title" content="Information Technology for Development">
       <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2026telecommunications.pdf">
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "Telecommunications adoption and stock market efficiency in emerging markets",
+        "author": [
+          {"@type": "Person", "@id": "https://johnlevendis.com/#john", "name": "John Levendis"}
+        ],
+        "datePublished": "2026",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Information Technology for Development"
+        },
+        "url": "https://johnlevendis.com/papers/levendis2026telecommunications",
+        "about": [
+          "Telecommunications and stock market efficiency",
+          "Mobile phones and financial markets",
+          "ICT and price discovery in emerging markets",
+          "Affordance theory and telecommunications"
+        ],
+        "description": "Telephone and mobile subscriptions are associated with greater stock market efficiency in emerging markets. Broadband is not. Voice telephony supports synchronous communication that drives real-time price discovery."
+      }
+      </script>
 ---
 
 **John Levendis**

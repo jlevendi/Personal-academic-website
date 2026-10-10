@@ -1,0 +1,76 @@
+---
+title: "Telecommunications and Economic Development"
+description: "How do mobile phones, internet access, and telecommunications infrastructure affect economic growth in developing countries? A research synthesis by John Levendis."
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Telecommunications and Economic Development — Research by John Levendis",
+        "description": "Research on how mobile phones, broadband, and telecommunications infrastructure affect economic growth, stock markets, and firm performance in developing countries.",
+        "author": {
+          "@type": "Person",
+          "@id": "https://johnlevendis.com/#john",
+          "name": "John Levendis"
+        },
+        "about": [
+          {"@type": "Thing", "name": "Telecommunications and economic development"},
+          {"@type": "Thing", "name": "Mobile phones and economic growth"},
+          {"@type": "Thing", "name": "ICT for development"},
+          {"@type": "Thing", "name": "Information technology diffusion"},
+          {"@type": "Thing", "name": "Digital infrastructure in developing countries"}
+        ],
+        "url": "https://johnlevendis.com/telecom-development"
+      }
+      </script>
+---
+
+Does telecommunications infrastructure help developing countries grow? Do mobile phones boost GDP? Does internet access improve financial markets? These are the questions at the center of my research program.
+
+## The short answer
+
+Yes — but the relationship is more complicated than it looks. Telecommunications and economic growth are *mutually endogenous*: richer countries can afford more telecom infrastructure, and better telecom infrastructure promotes growth. Disentangling cause from effect requires careful econometric methods. That is what my work does.
+
+## What my research finds
+
+### Mobile phones matter most where landlines are scarce
+
+In [sub-Saharan Africa](papers/lee2011telecommunications.html), mobile phone expansion has been an important driver of economic growth — and its impact is *largest* in countries where fixed-line telephone networks are rare. This makes intuitive sense: where no landlines exist, a mobile phone does not just substitute for a landline — it creates connectivity where none existed before. The marginal benefit of that first connection is enormous. (Lee, Levendis, and Gutierrez, *Applied Economics*, 2012.)
+
+### Telecom and growth reinforce each other
+
+Using panel data from [Asian economies](papers/levendis2013endogeneity.html), we show that telecommunications and GDP growth are jointly determined — they cause each other in a feedback loop. Countries that invest in telecom infrastructure grow faster, and faster-growing countries invest more in telecom. This finding supports endogenous growth theory: the positive network externalities from telecom create a virtuous cycle. Treating telecom as simply "causing" growth, as some earlier studies did, understates the complexity and overstates the precision of the estimate. (Levendis and Lee, *Information Technology for Development*, 2013.)
+
+### Telecom adoption improves stock market efficiency
+
+Does connectivity help financial markets work better? In [20 emerging markets](papers/levendis2026telecommunications.html), I find that telephone and mobile subscriptions are associated with greater stock market efficiency — prices incorporate information faster when more people are connected. Interestingly, broadband access does *not* show the same relationship. The explanation draws on affordance theory: voice telephony supports the kind of rapid, synchronous communication that drives real-time price discovery, whereas broadband supports asynchronous information retrieval that is less directly tied to daily trading. (Levendis, *Information Technology for Development*, 2026.)
+
+### Telecom regulation shapes adoption
+
+Before asking what telecom does for growth, we can ask what determines telecom adoption itself. In an [earlier paper](papers/lee-levendis2006telecom-regulatory.html), we study why some countries create independent telecom regulatory agencies and others do not, using duration analysis. Regulatory independence matters because it affects the pace at which telecom infrastructure is built out — and therefore the pace at which its economic benefits are realized. (Lee and Levendis, *Contemporary Economic Policy*, 2006.)
+
+## Econometric methods
+
+Much of the telecom-and-growth literature relies on dynamic panel GMM estimators — powerful tools, but ones that require care. My methodological work addresses practical problems that arise in this kind of applied research:
+
+- [**Choosing instruments in GMM**](papers/levendis2025default.html): Default versus collapsed instrument sets produce meaningfully different results in Monte Carlo simulations. The choice matters for anyone estimating growth regressions with panel data. (*Economics Bulletin*, 2025.)
+- [**Missing data and observation loss**](papers/levendis2026observation.html): Missing values in unbalanced panels cause more observation loss than researchers typically realize, which can bias GMM estimates. (*Finance Research Letters*, 2026.)
+- [**Writing for impact**](papers/levendis2025beyond.html): Practical guidance on how to write econometric papers that communicate clearly to development researchers. (*Information Technology for Development*, 2025.)
+
+## Why this research matters
+
+Over three billion people gained mobile phone access in the first two decades of the 21st century. Understanding whether and how that connectivity translates into economic growth should inform how governments and international agencies allocate scarce infrastructure funds and design development programs.
+
+My work takes the econometric challenges seriously. Handling endogeneity, instrument selection, and missing data properly determines whether the conclusions we draw from the data are trustworthy.
+
+## Selected publications
+
+- Levendis (2026). [Telecommunications adoption and stock market efficiency in emerging markets](papers/levendis2026telecommunications.html). *Information Technology for Development* (in press).
+- Levendis and Lee (2013). [On the endogeneity of telecommunications and economic growth: Evidence from Asia](papers/levendis2013endogeneity.html). *Information Technology for Development* 19(1), 62–85.
+- Lee, Levendis, and Gutierrez (2012). [Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa](papers/lee2011telecommunications.html). *Applied Economics* 44(4), 461–469.
+- Lee and Levendis (2006). Creation of a separate telecom regulatory agency: A duration analysis. *Contemporary Economic Policy* 24(3), 407–417.
+- Levendis (2025). [Default and collapsed instruments in dynamic panel GMM](papers/levendis2025default.html). *Economics Bulletin* 45(4), 1915–1925.
+- Levendis (2026). [Observation loss from missing data in dynamic panel GMM](papers/levendis2026observation.html). *Finance Research Letters* 105.
+
+For a complete list of publications, see my [research page](research.html) or [Google Scholar profile](https://scholar.google.com/citations?user=z3fzlb4AAAAJ).

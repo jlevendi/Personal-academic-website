@@ -15,6 +15,38 @@ include-in-header:
       <meta name="citation_lastpage" content="469">
       <meta name="citation_doi" content="10.1080/00036846.2010.508730">
       <meta name="citation_pdf_url" content="https://johnlevendis.com/files/lee2011telecommunications.pdf">
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "Telecommunications and economic growth: An empirical analysis of sub-Saharan Africa",
+        "author": [
+          {"@type": "Person", "name": "Sang H. Lee"},
+          {"@type": "Person", "@id": "https://johnlevendis.com/#john", "name": "John Levendis"},
+          {"@type": "Person", "name": "Luis Gutierrez"}
+        ],
+        "datePublished": "2012",
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "44",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Applied Economics"
+          }
+        },
+        "pageStart": "461",
+        "pageEnd": "469",
+        "url": "https://johnlevendis.com/papers/lee2011telecommunications",
+        "sameAs": "https://doi.org/10.1080/00036846.2010.508730",
+        "about": [
+          "Mobile phones and economic growth",
+          "Telecommunications in sub-Saharan Africa",
+          "Mobile cellular phones and GDP",
+          "ICT for development"
+        ],
+        "description": "Mobile phone expansion drives economic growth in sub-Saharan Africa. The impact is greatest where landline penetration is low, meaning mobile phones create connectivity rather than merely substituting for existing infrastructure."
+      }
+      </script>
 ---
 
 **Sang H. Lee, John Levendis, and Luis Gutierrez**

@@ -7,6 +7,9 @@ My research examines IT infrastructure, market efficiency, and firm performance,
 
 For a complete list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=z3fzlb4AAAAJ) or [ORCID profile](https://orcid.org/0000-0001-9529-2998).
 
+**[Telecommunications and Economic Development — Research Synthesis →](telecom-development.html)**\
+A plain-language overview of what my telecom research finds and why it matters.
+
 ## Telecommunications and Economic Development
 
 **[Telecommunications adoption and stock market efficiency in emerging markets](papers/levendis2026telecommunications.html)** (2026)\

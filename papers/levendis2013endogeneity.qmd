@@ -14,6 +14,37 @@ include-in-header:
       <meta name="citation_lastpage" content="85">
       <meta name="citation_doi" content="10.1080/02681102.2012.694793">
       <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2013endogeneity.pdf">
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "On the endogeneity of telecommunications and economic growth: Evidence from Asia",
+        "author": [
+          {"@type": "Person", "@id": "https://johnlevendis.com/#john", "name": "John Levendis"},
+          {"@type": "Person", "name": "Sang H. Lee"}
+        ],
+        "datePublished": "2013",
+        "isPartOf": {
+          "@type": "PublicationVolume",
+          "volumeNumber": "19",
+          "isPartOf": {
+            "@type": "Periodical",
+            "name": "Information Technology for Development"
+          }
+        },
+        "pageStart": "62",
+        "pageEnd": "85",
+        "url": "https://johnlevendis.com/papers/levendis2013endogeneity",
+        "sameAs": "https://doi.org/10.1080/02681102.2012.694793",
+        "about": [
+          "Telecommunications and economic growth",
+          "Endogeneity in telecom and GDP",
+          "Mobile phones and development in Asia",
+          "Endogenous growth theory"
+        ],
+        "description": "Telecom and GDP growth are mutually endogenous in Asian economies. The impact of teledensity on growth is positive and increases with telephone penetration, supporting endogenous growth theory."
+      }
+      </script>
 ---
 
 **John Levendis and Sang H. Lee**
