@@ -1,0 +1,81 @@
+---
+title: "Walter Block and the Economic Freedom of the World Index"
+description: "This festschrift chapter uses the Economic Freedom of the World Index to illustrate the relationship between economic freedom and social and economic outcomes."
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Walter Block and the Economic Freedom of the World Index">
+      <meta name="citation_author" content="Levendis, John">
+      <meta name="citation_publication_date" content="2025">
+      <meta name="citation_inbook_title" content="Walter Block — Anarcho-Capitalist Austro-Libertarian">
+      <meta name="citation_firstpage" content="412">
+      <meta name="citation_lastpage" content="422">
+      <meta name="citation_pdf_url" content="https://johnlevendis.com/files/levendis2025walter.pdf">
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": "Walter Block and the Economic Freedom of the World Index",
+        "author": [
+          {"@type": "Person", "@id": "https://johnlevendis.com/#john", "name": "John Levendis"}
+        ],
+        "datePublished": "2025",
+        "isPartOf": {
+          "@type": "Book",
+          "name": "Walter Block — Anarcho-Capitalist Austro-Libertarian",
+          "editor": [
+            {"@type": "Person", "name": "Elvira Nica"},
+            {"@type": "Person", "name": "Gheorghe H. Popescu"}
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Addleton Academic Publishers"
+          },
+          "isbn": "978-1-942585-58-9"
+        },
+        "pageStart": "412",
+        "pageEnd": "422",
+        "url": "https://johnlevendis.com/papers/levendis2025walter",
+        "about": [
+          "Economic Freedom of the World Index",
+          "Economic freedom and development outcomes",
+          "Free markets and inequality",
+          "Walter Block"
+        ],
+        "description": "Simple visualizations of the Economic Freedom of the World Index show strong correlations between economic freedom and positive outcomes: higher GDP, lower inequality, lower mortality, less corruption, and lower emissions per unit of GDP."
+      }
+      </script>
+---
+
+**John Levendis**
+
+In *Walter Block — Anarcho-Capitalist Austro-Libertarian*, edited by E. Nica and G.H. Popescu, 412–422. Addleton Academic Publishers, 2025.
+
+### Why This Research Matters
+
+The Economic Freedom of the World (EFW) Index, developed by Gwartney, Lawson, and Block in 1996, has become one of the most widely used datasets in institutional economics — cited in over 700 scholarly papers. But how compelling is the picture it paints? This chapter uses simple, accessible visualizations of the EFW data to illustrate the relationship between economic freedom and a wide range of social and economic outcomes.
+
+### What The Data Shows
+
+Eight scatterplots, each plotting a country's average EFW score (2000–present) against a different outcome, tell a remarkably consistent story:
+
+**Economically free countries are richer.** Per capita real GDP rises steeply with EFW scores, with an exponential-looking relationship.
+
+**Economically free countries are more equal, not less.** Gini coefficients are slightly lower in freer countries — contrary to the common critique that free markets produce inequality.
+
+**Economically free countries are healthier.** Both maternal and infant mortality fall dramatically with economic freedom.
+
+**Economically free countries are cleaner.** CO₂ emissions per unit of GDP are lower in freer economies, even controlling for income. More socialist countries pollute more per unit of output.
+
+**Economically free countries are less corrupt.** The negative correlation between economic freedom and corruption is strong — a result I have also demonstrated in formal econometric work with Hall, Levendis, and Scarcioffolo (2020), controlling for income, education, and other variables.
+
+Literacy and basic sanitation follow the same pattern: higher economic freedom, better outcomes for both men and women.
+
+### What This Is and Is Not
+
+This is not a rigorous causal analysis. It is a demonstration of how powerful simple pictures from the EFW data can be. The scatterplots show correlations, not causal effects. But as Hall and Lawson (2014) found in a survey of the scholarly literature, fewer than 4% of studies using the EFW Index find correlations between economic freedom and negative outcomes.
+
+The chapter is also a personal tribute to Walter Block as a colleague and friend during nearly twenty years at Loyola University New Orleans.
+
+[PDF](../files/levendis2025walter.pdf)
+
+[← Back to Research](../research.html)

@@ -41,4 +41,24 @@ Telecommunications has improved price discovery in commodity markets across the 
 
 [PDF](../files/levendis2026telecommunications.pdf)
 
+### Why This Research Matters
+
+Telecommunications has been shown to improve price discovery in commodity markets across the developing world — mobile phones enabled fishermen to check prices across landing sites before choosing where to sell, and reduced grain price dispersion across markets. But whether telecommunications similarly affects securities markets has gone untested. Stock markets are a different beast: prices move on rumor, sentiment, and split-second information flows, not just on supply and demand for a physical good. If telecom adoption improves the speed at which stock prices incorporate information, that has implications for capital allocation, investor protection, and financial development in emerging economies.
+
+### What I Found
+
+**Telephone and mobile subscriptions are associated with greater stock market efficiency — but broadband is not.** Using runs tests and augmented Dickey-Fuller tests on daily equity returns across 20 emerging markets from 1991 to 2023, I find a positive association between total telephone and mobile cellular adoption and market efficiency. Variance ratio tests, however, show no significant relationship for any type of telecom.
+
+**The type of technology matters.** Total telephone and mobile cellular subscriptions show the strongest associations with efficiency. Broadband shows no significant relationship in the main specifications. This pattern holds across pooled OLS, fixed effects, and random effects models, and survives robustness checks using five-year averaged data.
+
+**Affordance theory explains the difference.** Voice telephony affords synchronous, real-time communication — a trader can call a broker, confirm a rumor with a colleague, or negotiate a price in real time. Broadband affords asynchronous information retrieval — access to financial statements, news archives, and historical price data — which is valuable but less directly connected to the rapid price formation that drives daily market efficiency. The technology that matters for stock prices is the one that lets people talk to each other in real time.
+
+### How I Did It
+
+I use three complementary tests of the random walk hypothesis, each capturing a different dimension of efficiency: runs tests (non-parametric), augmented Dickey-Fuller tests (unit root), and variance ratio tests. The data cover daily equity prices for ETFs and local indices across 20 countries spanning Africa, Asia, Latin America, and Eastern Europe. Telecommunications data come from the International Telecommunications Union. I estimate pooled, fixed effects, and random effects models with controls for GDP per capita.
+
+### Implications
+
+The findings complicate the leapfrogging narrative common in ICT4D research. For stock market efficiency, the older and simpler technology — voice telephony — appears to matter more than broadband, not because it is technically superior but because its affordances better match the informational demands of daily price discovery. Basic connectivity may matter more than advanced access for how stock prices incorporate information. That said, the results are correlational: country fixed effects reduce significance, and the strong correlation between mobile subscriptions and calendar year (0.81) makes it difficult to fully separate telecom effects from general development trends.
+
 [← Back to Research](../research.html)
