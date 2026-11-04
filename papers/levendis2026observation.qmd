@@ -21,4 +21,22 @@ Missing data in dynamic panel models estimated by GMM cause observation losses t
 [PDF](../files/levendis2026observation.pdf) |
 [DOI: 10.1016/j.frl.2026.110189](https://doi.org/10.1016/j.frl.2026.110189)
 
+### Why This Research Matters
+
+Missing data are a fact of life in panel datasets, especially in finance where variables like R&D spending, advertising, or governance variables are unavailable for large fractions of the sample. Researchers know that missing cells reduce their sample size. What they do not realize is how much worse the problem becomes under GMM estimation. First-differencing — the transformation at the heart of difference GMM — turns one missing cell into two missing equations, because the difference at time t and at t+1 both depend on the value at t. The losses cascade.
+
+### What I Found
+
+**Each missing cell destroys roughly 1.8 GMM-usable observations.** In simulations with a single endogenous regressor at 5% missingness, 188 missing cells eliminate 338 usable observations — nearly double. This "cascade multiplier" is a mechanical consequence of first-differencing.
+
+**The problem compounds rapidly with multiple endogenous variables.** With three endogenous regressors each missing 20% of their values, actual sample retention drops to 26% of baseline — roughly half of what naive listwise deletion (0.8³ = 51%) would predict. Researchers who report their GMM sample size without understanding this arithmetic may be working with far less statistical power than they think.
+
+**Orthogonal deviations are a simple, costless fix.** Switching from first differences to orthogonal deviations — a one-option change in Stata's `xtabond2` — recovers roughly 25% more observations and preserves instrument strength. System GMM also mitigates the loss. Under orthogonal deviations, the effective sample for inference is about 72% of baseline; under first-differenced difference GMM, it is about 28%.
+
+**Imputation is especially valuable in GMM contexts.** Because the cascade amplifies each missing cell into multiple lost observations, imputing even a modest number of values can substantially increase the usable sample. With three endogenous variables, reducing missingness from 20% to 10% more than doubles retention, from 26% to 53%.
+
+### Implications
+
+The practical message is twofold. First, researchers using difference GMM with first differences on incomplete data should switch to orthogonal deviations unless they have a specific reason not to — it is costless and can dramatically increase effective sample size. Second, the cascade creates a sample-size argument for parsimony: at 20% missingness, going from one endogenous regressor to three cuts usable observations from 64% to 26% of baseline. Every additional incomplete variable needs to earn its place in the model.
+
 [← Back to Research](../research.html)

@@ -24,4 +24,18 @@ This editorial provides methodological guidance for researchers publishing econo
 [PDF](../files/levendis2025beyond.pdf) |
 [DOI: 10.1080/02681102.2025.2512651](https://doi.org/10.1080/02681102.2025.2512651)
 
+### Why This Research Matters
+
+Econometric papers in development economics often lean on increasingly sophisticated estimators — GMM, instrumental variables, machine learning — while underinvesting in the basics: a compelling question, a clear theoretical framework, and honest discussion of what the data can and cannot show. This editorial, written from my perspective as a member of the ITD editorial board, argues that technique alone does not make a paper impactful. The most common reasons papers fail at review are not technical errors but weak motivation, missing theory, and unjustified specification choices.
+
+### Key Arguments
+
+**Start with the question, not the method.** A new dataset or a novel estimator is not a research question. The question must connect to a debate that other researchers care about — endogenous versus exogenous growth, the role of institutions, the direction of technology spillovers. If the question does not pass the "so what?" test, no amount of econometric sophistication will rescue the paper.
+
+**Theory must precede estimation.** Fitting a theoretical story to results after the fact is not theory — it is post-hoc rationalization. The theoretical framework should determine which variables enter the model, which are endogenous, and what sign and magnitude you expect. Interaction terms require particular care: you need a theoretical reason why the marginal effect of X should depend on Z.
+
+**Minor specification choices can change everything.** To demonstrate this, I estimate a dynamic panel model of GDP per capita in sub-Saharan Africa using both difference-GMM and system-GMM. Simply switching between the two estimators changes the coefficient on lagged GDP from 0.19 to 0.93. Adding a single control variable (FDI) transforms the illiteracy coefficient by a factor of 33 and completely reverses the Sargan test p-values. These are not exotic edge cases — they are the kinds of choices researchers make every day, often without reporting the sensitivity of their results.
+
+**Report what matters, and report it honestly.** For GMM specifically: disclose which variables are instrumented and how, report both Hansen and Sargan tests, check Arellano-Bond AR tests, and be alert to instrument proliferation (suspiciously perfect p-values of 1.000 are a warning, not a reassurance). The fragility demonstrated in this editorial motivated two companion papers. The [collapsed instruments](levendis2025default.html) paper shows that collapsed instruments consistently outperform the default instrument sets. The [observation loss](levendis2026observation.html) paper documents how missing data silently destroys far more GMM-usable observations than the raw missingness rate would suggest.
+
 [← Back to Research](../research.html)

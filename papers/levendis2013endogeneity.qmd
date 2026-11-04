@@ -56,4 +56,28 @@ The impact of mobile and fixed telephones on economic growth has been the subjec
 [PDF](../files/levendis2013endogeneity.pdf) |
 [DOI: 10.1080/02681102.2012.694793](https://doi.org/10.1080/02681102.2012.694793)
 
+### Why This Research Matters
+
+Does telecommunications cause economic growth, or does economic growth cause telecommunications investment? This chicken-and-egg problem — endogeneity — plagues nearly all research linking infrastructure to development. Most earlier studies assumed the answer was simple: phones cause growth, full stop. But if richer countries just buy more phones, the estimated effect of telecom on growth is biased upward.
+
+Asia offers a compelling setting to test this. The continent spans enormous variation in both telephone penetration and growth rates — from near-zero teledensity in some countries to over 190 lines per 100 people in others, and from GDP contractions of 22% to booms above 30%. This variation gives econometric methods the leverage they need to separate cause from effect.
+
+Beyond the policy question, the paper tests a prediction from endogenous growth theory: if telephone networks generate positive network externalities — each new connection making all existing connections more valuable — then the marginal impact of an additional phone line should *increase* with the level of penetration, not diminish. Neoclassical growth theory predicts the opposite: diminishing returns.
+
+### What We Found
+
+**Teledensity drives growth, and the effect gets stronger as penetration rises.** The coefficient on teledensity-squared is positive and statistically significant across nearly all specifications. This means each additional telephone line contributes more to growth than the last one did — evidence of increasing returns through network externalities, exactly as endogenous growth theory predicts.
+
+**The results hold regardless of how you handle endogeneity.** We estimate models treating telecom as strictly exogenous (fixed effects) and as endogenous (one-step and two-step Arellano-Bond GMM). The positive, increasing relationship between teledensity and growth survives all three approaches and four different functional forms.
+
+**The magnitudes are economically meaningful.** A 20-unit increase in teledensity — feasible based on what many Asian countries actually achieved between 2000 and 2006 — is associated with a growth-rate increase of up to roughly 2.5 percentage points, depending on the specification. At the upper end, that could cut the time to double a country's living standard from 36 years to about 16.
+
+### How We Did It
+
+We use panel data on 29 Asian countries and territories from 1981 to 2006 (World Bank data). Our preferred estimator is two-step difference GMM with Windmeijer-corrected standard errors, which addresses endogeneity by instrumenting current telecom levels with their own lagged values. Unlike prior work, we do not assume that non-telecom controls (trade, investment, government spending) are strictly exogenous either. Arellano-Bond tests confirm no problematic serial correlation, and Hansen J-tests validate the instruments across all specifications. We include a financial crisis dummy for 1997–1998 to absorb the Asian crisis shock.
+
+### Implications
+
+The finding of increasing returns has a direct policy implication: telecom investment becomes *more* valuable as penetration rises, not less. Countries should not expect diminishing payoffs as phone networks expand. But the paper also cautions against government-funded telecom subsidies — government spending itself has a large negative effect on growth in these models. The better path is lowering barriers to private investment: independent regulators, reduced licensing fees, and competitive entry.
+
 [← Back to Research](../research.html)
